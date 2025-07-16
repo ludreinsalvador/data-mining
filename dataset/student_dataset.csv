@@ -1,0 +1,1331 @@
+student_number,course,birthdate,nationality,civil_status,gender,municipality,payment_status,balance,has_scholarship,number_of_units_enrolled,academic_probation_status,last_term_GWA
+25-2824,Business Intelligence & Analytics (BSBA‑BIA),2003-04-05,Filipino,Single,Male,Rodriguez,Paid,0,False,18,,3.0
+25-4257,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2006-04-15,Filipino,Single,Male,Mandaluyong,Paid,0,False,18,,3.0
+25-2674,Business Intelligence & Analytics (BSBA‑BIA),2005-06-20,Filipino,Single,Female,San Mateo,With Balance,12582,False,21,,3.0
+25-6925,Cybersecurity (BSCSEC),2001-01-22,Filipino,Single,Male,San Juan,Paid,0,False,24,,3.5
+25-7065,Human Resource Management (BSBA‑HRM),2004-12-22,Filipino,Single,Male,San Mateo,Paid,0,False,24,,2.0
+25-4598,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2000-04-27,Filipino,Single,Female,Makati,With Balance,38716,False,21,,3.5
+25-8517,Business Solutions & Applications (BSBA‑BSAA),2003-12-18,Filipino,Single,Female,Rodriguez,Paid,0,False,18,,4.0
+25-1771,Business Intelligence & Analytics (BSBA‑BIA),2002-11-14,Filipino,Single,Female,Antipolo,Paid,0,False,15,,4.0
+25-9797,Human Resource Management (BSBA‑HRM),2005-02-10,Filipino,Single,Female,Antipolo,Paid,0,False,15,,3.5
+25-9317,Cybersecurity (BSCSEC),2005-03-18,Chinese,Single,Male,Cainta,Paid,0,False,21,,2.0
+25-6038,Business Solutions & Applications (BSBA‑BSAA),2001-02-24,Filipino,Single,Male,Pasig,With Balance,15410,False,21,,3.0
+25-4470,Cybersecurity (BSCSEC),2003-12-10,Filipino,Single,Female,Navotas,Paid,0,False,18,,3.5
+25-4770,Cybersecurity (BSCSEC),2001-12-21,Filipino,Single,Male,Muntinlupa,Paid,0,True,18,,3.5
+25-9834,Business Solutions & Applications (BSBA‑BSAA),2007-04-26,Filipino,Single,Male,Taguig,Paid,0,False,24,,3.0
+25-2612,Business Intelligence & Analytics (BSBA‑BIA),2005-02-08,Filipino,Single,Male,Valenzuela,Paid,0,False,15,,2.0
+25-2604,Business Intelligence & Analytics (BSBA‑BIA),2000-02-25,Filipino,Single,Female,Malabon,Paid,0,False,15,,4.0
+25-7396,Human Resource Management (BSBA‑HRM),2007-05-14,Filipino,Single,Female,Pasig,Paid,0,False,15,,3.0
+25-6138,Business Intelligence & Analytics (BSBA‑BIA),2007-09-28,Filipino,Single,Male,Mandaluyong,Paid,0,True,15,,4.0
+25-2964,Cybersecurity (BSCSEC),2000-10-03,Filipino,Single,Female,Marikina,With Balance,17821,False,21,,3.0
+25-5915,Information Systems (BS‑IS),2001-01-15,Filipino,Single,Male,Makati,Paid,0,False,18,,2.0
+25-5002,Human Resource Management (BSBA‑HRM),2007-09-23,Filipino,Married,Male,Imus,Paid,0,False,15,,4.0
+25-2891,Business Intelligence & Analytics (BSBA‑BIA),2002-05-10,Filipino,Single,Male,Imus,Paid,0,False,24,,2.0
+25-1832,Business Intelligence & Analytics (BSBA‑BIA),2004-01-01,Filipino,Single,Female,Mandaluyong,Paid,0,False,24,,4.0
+25-3442,Cybersecurity (BSCSEC),2005-10-18,Filipino,Single,Female,Parañaque,With Balance,38203,False,15,,4.0
+25-5088,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2006-10-24,Filipino,Single,Male,Mandaluyong,Paid,0,False,21,,3.5
+25-5065,Human Resource Management (BSBA‑HRM),2001-07-28,Filipino,Single,Male,Navotas,With Balance,38551,False,18,,3.0
+25-7528,Human Resource Management (BSBA‑HRM),2001-05-12,Filipino,Single,Female,Manila,With Balance,15851,False,21,restrictions,3.5
+25-6139,Information Systems (BS‑IS),2001-07-19,Filipino,Single,Female,Manila,With Balance,32506,False,18,,4.0
+25-6409,Cybersecurity (BSCSEC),2001-12-10,Filipino,Single,Female,Pasay,Paid,0,False,18,,2.0
+25-3851,Cybersecurity (BSCSEC),2006-09-27,Filipino,Single,Female,Rodriguez,Paid,0,False,24,,4.0
+25-8752,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2001-05-17,Filipino,Single,Male,San Juan,Paid,0,False,18,advising,4.0
+25-8784,Cybersecurity (BSCSEC),2001-08-14,Filipino,Single,Female,Malabon,Paid,0,False,15,,2.0
+25-2746,Information Systems (BS‑IS),2007-01-18,Filipino,Single,Female,Pasig,Paid,0,False,21,,2.0
+25-9270,Information Systems (BS‑IS),2007-03-24,Filipino,Single,Male,Bacoor,With Balance,25879,False,18,,4.0
+25-5681,Business Solutions & Applications (BSBA‑BSAA),2005-09-03,Filipino,Single,Male,Caloocan,Paid,0,True,24,,3.5
+25-2020,Business Solutions & Applications (BSBA‑BSAA),2006-10-23,Filipino,Single,Female,Malabon,Paid,0,True,21,,3.5
+25-7865,Cybersecurity (BSCSEC),2003-08-08,Filipino,Single,Female,Muntinlupa,With Balance,33729,False,18,,2.0
+25-9751,Business Intelligence & Analytics (BSBA‑BIA),2000-02-21,Filipino,Single,Male,Quezon City,Paid,0,False,24,,3.0
+25-7211,Human Resource Management (BSBA‑HRM),2006-05-27,Filipino,Single,Male,Parañaque,Paid,0,False,15,,2.0
+25-4266,Business Intelligence & Analytics (BSBA‑BIA),2003-03-16,Filipino,Single,Male,Navotas,With Balance,15498,False,15,,4.0
+25-6096,Business Intelligence & Analytics (BSBA‑BIA),2004-10-22,Filipino,Single,Male,Makati,With Balance,17957,False,15,,3.5
+25-2983,Cybersecurity (BSCSEC),2005-09-14,Filipino,Single,Female,Manila,With Balance,13458,False,24,,3.0
+25-8532,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2002-12-17,Korean,Single,Female,Navotas,With Balance,18794,False,21,,2.0
+25-2419,Human Resource Management (BSBA‑HRM),2003-08-19,Filipino,Single,Male,Malabon,Paid,0,False,18,,3.5
+25-5581,Cybersecurity (BSCSEC),2004-09-01,Filipino,Single,Male,Valenzuela,With Balance,32629,False,24,,3.5
+25-1282,Business Intelligence & Analytics (BSBA‑BIA),2006-12-08,Filipino,Single,Female,San Mateo,Paid,0,False,21,,3.5
+25-6023,Human Resource Management (BSBA‑HRM),2003-06-04,Filipino,Single,Male,Caloocan,Paid,0,False,21,,2.0
+25-5853,Business Solutions & Applications (BSBA‑BSAA),2004-01-23,Filipino,Single,Male,San Mateo,With Balance,30901,False,24,advising,3.0
+25-8690,Information Systems (BS‑IS),2002-01-09,Filipino,Single,Male,Pasay,Paid,0,False,15,,2.0
+25-5978,Business Intelligence & Analytics (BSBA‑BIA),2001-09-25,Filipino,Single,Male,Antipolo,With Balance,19743,False,24,,3.0
+25-2625,Business Solutions & Applications (BSBA‑BSAA),2004-11-03,Filipino,Single,Male,Mandaluyong,Paid,0,True,24,,3.5
+25-1534,Business Solutions & Applications (BSBA‑BSAA),2004-12-28,Filipino,Single,Female,Bacoor,With Balance,16482,False,24,advising,3.0
+25-5352,Business Solutions & Applications (BSBA‑BSAA),2002-05-20,Filipino,Single,Female,Navotas,Paid,0,False,24,,3.0
+25-9090,Information Systems (BS‑IS),2000-07-24,Filipino,Single,Male,San Juan,With Balance,28848,False,15,,3.0
+25-5415,Cybersecurity (BSCSEC),2002-08-17,Filipino,Single,Male,Rodriguez,With Balance,12989,False,24,,3.5
+25-2713,Business Solutions & Applications (BSBA‑BSAA),2007-05-22,Filipino,Single,Male,Navotas,Paid,0,True,21,,1.0
+25-7622,Cybersecurity (BSCSEC),2000-11-28,Filipino,Single,Male,Antipolo,With Balance,30493,False,24,,4.0
+25-9998,Business Solutions & Applications (BSBA‑BSAA),2007-12-16,Filipino,Married,Male,Mandaluyong,Paid,0,False,24,advising,3.5
+25-2924,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2007-12-10,Filipino,Single,Female,Malabon,Paid,0,False,24,,3.0
+25-3236,Business Intelligence & Analytics (BSBA‑BIA),2006-06-26,Filipino,Single,Female,Las Piñas,Paid,0,False,24,,3.5
+25-8935,Human Resource Management (BSBA‑HRM),2006-08-11,Filipino,Married,Male,Rodriguez,With Balance,23460,False,15,,3.5
+25-7246,Information Systems (BS‑IS),2002-08-02,Filipino,Single,Female,Taguig,Paid,0,False,24,advising,3.5
+25-3529,Business Intelligence & Analytics (BSBA‑BIA),2004-06-20,Filipino,Single,Female,Imus,Paid,0,False,21,,2.0
+25-8994,Cybersecurity (BSCSEC),2001-04-21,Filipino,Single,Male,Makati,Paid,0,False,15,,3.0
+25-1474,Business Intelligence & Analytics (BSBA‑BIA),2000-05-12,Filipino,Single,Female,Rodriguez,Paid,0,False,18,monitoring,3.0
+25-4945,Information Systems (BS‑IS),2002-04-15,Filipino,Single,Male,Navotas,Paid,0,False,18,monitoring,1.0
+25-5901,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2004-08-28,Filipino,Married,Female,Taguig,Paid,0,False,21,,3.5
+25-7484,Human Resource Management (BSBA‑HRM),1995-12-02,Filipino,Single,Female,San Juan,Paid,0,False,18,,3.0
+25-3240,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2000-05-26,Filipino,Single,Male,Makati,Paid,0,False,24,,4.0
+25-9837,Human Resource Management (BSBA‑HRM),2004-03-09,Filipino,Single,Female,Muntinlupa,Paid,0,False,15,advising,2.0
+25-7511,Cybersecurity (BSCSEC),2006-01-09,Filipino,Single,Female,Rodriguez,Paid,0,False,21,advising,3.5
+25-6374,Cybersecurity (BSCSEC),2001-11-27,Filipino,Single,Female,Taguig,With Balance,19973,False,24,advising,2.0
+25-3222,Information Systems (BS‑IS),2006-10-24,Filipino,Single,Male,Malabon,With Balance,19166,False,15,,4.0
+25-8285,Business Solutions & Applications (BSBA‑BSAA),2001-11-12,Filipino,Married,Female,Quezon City,Paid,0,False,15,,2.0
+25-2501,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2000-01-26,Filipino,Married,Male,Makati,Paid,0,False,18,,4.0
+25-3417,Cybersecurity (BSCSEC),1991-03-18,Filipino,Single,Male,Pasig,Paid,0,True,18,,4.0
+25-5347,Business Intelligence & Analytics (BSBA‑BIA),2006-09-04,Filipino,Single,Female,Antipolo,Paid,0,False,18,,4.0
+25-9543,Human Resource Management (BSBA‑HRM),2000-01-16,Filipino,Single,Male,Malabon,Paid,0,False,15,,4.0
+25-3067,Human Resource Management (BSBA‑HRM),2005-07-20,Filipino,Single,Female,Taguig,Paid,0,False,18,,2.0
+25-7779,Human Resource Management (BSBA‑HRM),2006-07-24,Filipino,Single,Female,Parañaque,Paid,0,False,24,advising,4.0
+25-2582,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2002-09-02,Filipino,Single,Female,Imus,Paid,0,False,24,,3.0
+25-5712,Cybersecurity (BSCSEC),2001-10-17,Filipino,Single,Male,Taguig,Paid,0,False,15,,3.0
+25-8030,Cybersecurity (BSCSEC),2000-10-22,Filipino,Single,Male,Marikina,Paid,0,False,21,,4.0
+25-3347,Cybersecurity (BSCSEC),2001-03-24,Filipino,Single,Male,Pasay,Paid,0,False,21,,3.5
+25-2391,Business Intelligence & Analytics (BSBA‑BIA),2000-11-03,Filipino,Single,Female,Cainta,Paid,0,False,15,,4.0
+25-8972,Cybersecurity (BSCSEC),2000-04-13,Vietnamese,Single,Male,Las Piñas,With Balance,35040,False,21,,4.0
+25-9149,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2002-07-18,Filipino,Single,Female,Makati,With Balance,24294,False,15,,4.0
+25-6129,Cybersecurity (BSCSEC),2006-12-21,Filipino,Single,Male,Muntinlupa,With Balance,25076,False,21,advising,4.0
+25-7560,Cybersecurity (BSCSEC),2004-12-11,Filipino,Single,Male,Antipolo,Paid,0,False,18,,3.5
+25-3419,Business Solutions & Applications (BSBA‑BSAA),2004-04-06,Filipino,Single,Male,Mandaluyong,Paid,0,False,24,,3.0
+25-8354,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2005-11-11,Filipino,Single,Female,Bacoor,Paid,0,False,15,,4.0
+25-8565,Information Systems (BS‑IS),2005-05-03,Filipino,Married,Male,Cainta,Paid,0,False,15,,2.0
+25-4084,Human Resource Management (BSBA‑HRM),2002-01-15,Filipino,Single,Female,Makati,Paid,0,False,18,,1.0
+25-9586,Cybersecurity (BSCSEC),2005-06-10,Filipino,Single,Male,Bacoor,Paid,0,False,15,,3.5
+25-5128,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2002-06-03,Filipino,Single,Female,Las Piñas,Paid,0,False,24,restrictions,2.0
+25-6072,Cybersecurity (BSCSEC),2005-03-22,Filipino,Single,Male,Bacoor,Paid,0,False,15,,4.0
+25-4509,Human Resource Management (BSBA‑HRM),2007-04-08,American,Single,Female,Taguig,Paid,0,False,15,,2.0
+25-3147,Cybersecurity (BSCSEC),2002-03-27,Filipino,Single,Male,Navotas,Paid,0,True,21,,4.0
+25-8277,Cybersecurity (BSCSEC),2007-04-18,Filipino,Single,Female,Caloocan,With Balance,24437,False,24,,3.0
+25-9239,Cybersecurity (BSCSEC),2002-04-26,Filipino,Single,Male,Bacoor,Paid,0,False,15,,3.0
+25-3042,Human Resource Management (BSBA‑HRM),2002-05-15,Filipino,Single,Female,Makati,Paid,0,False,24,,2.0
+25-7797,Business Intelligence & Analytics (BSBA‑BIA),2005-04-13,American,Single,Male,Muntinlupa,With Balance,31297,False,21,,4.0
+25-5700,Information Systems (BS‑IS),2002-12-16,Filipino,Single,Male,Manila,With Balance,27983,False,24,monitoring,4.0
+25-2996,Business Intelligence & Analytics (BSBA‑BIA),2007-02-04,Filipino,Single,Male,Bacoor,Paid,0,False,18,,4.0
+25-6780,Business Solutions & Applications (BSBA‑BSAA),2002-11-22,Filipino,Married,Male,Antipolo,With Balance,26633,False,15,,3.5
+25-7338,Human Resource Management (BSBA‑HRM),2000-06-26,Filipino,Single,Male,Rodriguez,Paid,0,False,15,,3.5
+25-3868,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2007-11-06,Filipino,Single,Female,Quezon City,Paid,0,False,18,,3.5
+25-6080,Cybersecurity (BSCSEC),2007-05-02,Filipino,Single,Female,Quezon City,Paid,0,False,15,,3.5
+25-7553,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2006-06-06,Filipino,Single,Female,Makati,Paid,0,False,18,,3.5
+25-2311,Human Resource Management (BSBA‑HRM),2004-08-20,Filipino,Single,Female,Parañaque,With Balance,39871,False,21,,3.5
+25-1939,Business Intelligence & Analytics (BSBA‑BIA),2006-06-17,Filipino,Single,Male,Pasig,Paid,0,False,24,advising,4.0
+25-7001,Human Resource Management (BSBA‑HRM),2000-10-05,Filipino,Single,Female,Navotas,Paid,0,False,21,,3.0
+25-5089,Business Intelligence & Analytics (BSBA‑BIA),2002-08-17,Filipino,Single,Female,Marikina,Paid,0,False,21,,1.0
+25-4279,Business Intelligence & Analytics (BSBA‑BIA),2001-08-06,Filipino,Single,Male,Imus,With Balance,31883,False,21,,3.0
+25-5757,Human Resource Management (BSBA‑HRM),2002-06-17,Filipino,Married,Male,San Juan,Paid,0,False,21,,1.0
+25-3126,Cybersecurity (BSCSEC),2001-05-13,American,Single,Female,Valenzuela,Paid,0,False,21,,3.5
+25-9476,Human Resource Management (BSBA‑HRM),2002-03-14,Filipino,Single,Male,Antipolo,Paid,0,False,21,,4.0
+25-9501,Human Resource Management (BSBA‑HRM),2004-04-21,Chinese,Single,Female,Cainta,Paid,0,False,18,,3.0
+25-3804,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2005-10-02,Filipino,Single,Male,Bacoor,Paid,0,False,18,,3.5
+25-1496,Information Systems (BS‑IS),2004-11-10,Filipino,Single,Female,Las Piñas,Paid,0,False,18,,3.5
+25-4342,Human Resource Management (BSBA‑HRM),2005-12-11,Filipino,Single,Female,Pasig,Paid,0,False,15,,3.5
+25-5382,Information Systems (BS‑IS),2001-01-10,Filipino,Single,Female,San Juan,With Balance,36656,False,21,,3.0
+25-4110,Business Solutions & Applications (BSBA‑BSAA),2007-08-10,Filipino,Single,Female,Antipolo,Paid,0,False,21,monitoring,3.5
+25-8710,Human Resource Management (BSBA‑HRM),2001-07-05,Filipino,Single,Female,Parañaque,Paid,0,True,15,,4.0
+25-5728,Business Intelligence & Analytics (BSBA‑BIA),2007-09-09,Filipino,Single,Male,Pasig,Paid,0,False,21,,3.5
+25-3363,Business Solutions & Applications (BSBA‑BSAA),2006-09-02,Filipino,Single,Female,Malabon,Paid,0,False,18,,3.0
+25-3662,Information Systems (BS‑IS),2004-10-11,Filipino,Single,Female,Rodriguez,With Balance,22070,False,21,,1.0
+25-6040,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2000-10-16,Filipino,Single,Male,Quezon City,Paid,0,False,24,restrictions,4.0
+25-2800,Business Solutions & Applications (BSBA‑BSAA),2005-07-05,Filipino,Single,Female,Quezon City,Paid,0,False,21,,3.5
+25-7173,Human Resource Management (BSBA‑HRM),2007-09-11,Filipino,Single,Female,Cainta,With Balance,19142,False,21,,1.0
+25-5876,Human Resource Management (BSBA‑HRM),2007-06-16,Filipino,Single,Female,Las Piñas,Paid,0,False,24,,3.5
+25-6654,Business Solutions & Applications (BSBA‑BSAA),2004-12-03,Filipino,Single,Female,Malabon,With Balance,18884,False,21,restrictions,3.0
+25-4920,Business Solutions & Applications (BSBA‑BSAA),2003-11-08,Filipino,Single,Female,Taguig,Paid,0,False,18,,2.0
+25-8793,Information Systems (BS‑IS),2004-06-10,Filipino,Single,Male,Bacoor,Paid,0,False,15,,4.0
+25-3880,Business Intelligence & Analytics (BSBA‑BIA),2006-08-06,Filipino,Single,Female,Quezon City,Paid,0,True,15,,3.5
+25-8444,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2007-03-28,Filipino,Single,Male,Muntinlupa,Paid,0,False,21,,4.0
+25-6523,Human Resource Management (BSBA‑HRM),2003-03-20,Filipino,Single,Female,Antipolo,Paid,0,False,15,,4.0
+25-6301,Business Solutions & Applications (BSBA‑BSAA),1993-04-15,Filipino,Single,Female,Rodriguez,Paid,0,False,21,,4.0
+25-2936,Information Systems (BS‑IS),2006-11-17,Filipino,Single,Female,Taguig,With Balance,22043,False,18,,4.0
+25-3509,Information Systems (BS‑IS),2005-07-23,Filipino,Single,Male,San Juan,Paid,0,False,15,,3.0
+25-6927,Business Intelligence & Analytics (BSBA‑BIA),2001-01-27,Filipino,Single,Male,Mandaluyong,Paid,0,False,15,,3.0
+25-9008,Business Intelligence & Analytics (BSBA‑BIA),2007-01-15,Filipino,Single,Male,San Mateo,With Balance,33700,False,15,,2.0
+25-4570,Cybersecurity (BSCSEC),2006-06-23,Filipino,Married,Male,Malabon,Paid,0,True,24,,4.0
+25-7887,Human Resource Management (BSBA‑HRM),2006-08-28,Filipino,Single,Male,Imus,With Balance,14357,False,21,restrictions,3.5
+25-3086,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2000-01-10,Filipino,Single,Female,San Mateo,Paid,0,False,24,,3.5
+25-2848,Business Intelligence & Analytics (BSBA‑BIA),2006-10-25,Filipino,Single,Male,Caloocan,Paid,0,True,15,,3.0
+25-1797,Business Solutions & Applications (BSBA‑BSAA),2006-08-08,Filipino,Single,Male,Pasig,Paid,0,False,21,,3.0
+25-6253,Business Solutions & Applications (BSBA‑BSAA),2002-11-17,Filipino,Single,Male,San Mateo,With Balance,39870,False,18,,3.5
+25-9120,Business Intelligence & Analytics (BSBA‑BIA),2006-09-11,Filipino,Single,Female,Pasay,Paid,0,False,18,,3.5
+25-3365,Information Systems (BS‑IS),2006-07-18,Filipino,Single,Female,Caloocan,Paid,0,False,24,,4.0
+25-4120,Business Intelligence & Analytics (BSBA‑BIA),2000-02-07,Filipino,Single,Male,Malabon,With Balance,19934,False,15,,4.0
+25-2922,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2007-04-23,Filipino,Single,Male,San Mateo,Paid,0,False,24,,3.5
+25-5285,Human Resource Management (BSBA‑HRM),2007-08-04,Filipino,Single,Female,Caloocan,Paid,0,False,18,,4.0
+25-7841,Human Resource Management (BSBA‑HRM),2005-04-13,Filipino,Single,Female,Marikina,Paid,0,False,24,,3.0
+25-6770,Business Solutions & Applications (BSBA‑BSAA),2007-03-18,American,Single,Male,Makati,Paid,0,False,15,,2.0
+25-4791,Business Intelligence & Analytics (BSBA‑BIA),2000-04-17,Filipino,Single,Female,Imus,Paid,0,False,24,restrictions,3.0
+25-9777,Human Resource Management (BSBA‑HRM),2006-03-04,Filipino,Single,Male,Caloocan,Paid,0,False,21,,3.5
+25-7112,Information Systems (BS‑IS),2003-12-08,Filipino,Single,Male,Bacoor,Paid,0,False,15,monitoring,3.5
+25-8798,Business Intelligence & Analytics (BSBA‑BIA),2002-02-16,Filipino,Single,Female,Rodriguez,With Balance,39320,False,15,,2.0
+25-8790,Human Resource Management (BSBA‑HRM),2001-11-09,Filipino,Single,Male,Mandaluyong,Paid,0,False,18,,3.0
+25-7525,Business Intelligence & Analytics (BSBA‑BIA),2003-10-27,Filipino,Single,Female,Pasay,Paid,0,False,15,,1.0
+25-1879,Business Intelligence & Analytics (BSBA‑BIA),2001-06-20,Filipino,Single,Female,Muntinlupa,Paid,0,True,21,,3.5
+25-4737,Human Resource Management (BSBA‑HRM),2006-07-06,Filipino,Single,Male,Cainta,Paid,0,False,15,advising,3.5
+25-3527,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2005-02-03,Filipino,Single,Female,Marikina,Paid,0,False,24,,3.0
+25-7685,Business Intelligence & Analytics (BSBA‑BIA),2005-09-03,Filipino,Single,Female,Manila,Paid,0,False,15,,3.0
+25-4977,Cybersecurity (BSCSEC),2006-03-05,Filipino,Single,Male,Makati,Paid,0,False,21,,4.0
+25-5123,Business Solutions & Applications (BSBA‑BSAA),2007-10-20,Filipino,Single,Female,Manila,Paid,0,False,24,,3.5
+25-6484,Information Systems (BS‑IS),2002-05-11,Filipino,Single,Female,Muntinlupa,Paid,0,False,21,,3.0
+25-9044,Cybersecurity (BSCSEC),2005-07-09,Filipino,Single,Male,Rodriguez,With Balance,15895,False,15,,3.5
+25-4434,Information Systems (BS‑IS),2001-07-22,Filipino,Single,Male,Marikina,With Balance,35856,False,24,restrictions,3.5
+25-7566,Cybersecurity (BSCSEC),2006-09-02,Filipino,Single,Male,Taguig,Paid,0,False,21,,3.0
+25-7547,Human Resource Management (BSBA‑HRM),2006-02-01,Filipino,Single,Male,Navotas,Paid,0,False,18,,4.0
+25-2712,Human Resource Management (BSBA‑HRM),2001-02-27,Filipino,Single,Female,Muntinlupa,Paid,0,False,24,,4.0
+25-8412,Human Resource Management (BSBA‑HRM),2000-12-04,Filipino,Single,Male,Imus,With Balance,34264,False,18,,3.0
+25-6422,Cybersecurity (BSCSEC),2007-04-26,Filipino,Single,Female,Pasay,Paid,0,True,18,,3.5
+25-1072,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2004-12-26,Filipino,Single,Male,Parañaque,Paid,0,False,21,,3.5
+25-6134,Cybersecurity (BSCSEC),2006-10-04,Filipino,Single,Male,Imus,Paid,0,False,15,,3.5
+25-4908,Human Resource Management (BSBA‑HRM),2005-12-05,Filipino,Single,Male,Rodriguez,Paid,0,False,18,,3.5
+25-3298,Business Solutions & Applications (BSBA‑BSAA),2007-10-02,Filipino,Single,Female,Pasig,Paid,0,False,24,,3.5
+25-8272,Information Systems (BS‑IS),2000-04-10,Filipino,Single,Female,Mandaluyong,Paid,0,False,24,,4.0
+25-2871,Human Resource Management (BSBA‑HRM),2005-09-27,Filipino,Single,Female,San Mateo,Paid,0,False,18,,1.0
+25-8368,Human Resource Management (BSBA‑HRM),2001-08-28,American,Single,Male,Caloocan,Paid,0,False,21,,3.0
+25-8015,Business Solutions & Applications (BSBA‑BSAA),2003-04-26,Filipino,Single,Female,Cainta,Paid,0,False,21,,3.5
+25-9428,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2002-07-02,American,Single,Male,Pasig,With Balance,37147,False,18,,3.0
+25-9019,Business Solutions & Applications (BSBA‑BSAA),2004-11-14,Filipino,Single,Male,Pasay,Paid,0,False,21,,3.5
+25-1040,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2007-11-22,Filipino,Single,Female,Caloocan,With Balance,26210,False,21,,3.5
+25-9967,Cybersecurity (BSCSEC),2007-06-22,Filipino,Single,Female,Manila,With Balance,24460,False,24,monitoring,4.0
+25-3161,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2004-02-21,Filipino,Single,Male,Quezon City,Paid,0,False,18,,4.0
+25-2559,Business Intelligence & Analytics (BSBA‑BIA),2001-03-19,Filipino,Single,Male,Manila,With Balance,38191,False,24,,3.5
+25-4751,Information Systems (BS‑IS),2001-02-11,Filipino,Single,Female,Pasig,Paid,0,False,15,,4.0
+25-3688,Information Systems (BS‑IS),2003-11-24,Filipino,Single,Female,Caloocan,Paid,0,True,15,advising,3.0
+25-7291,Human Resource Management (BSBA‑HRM),2005-03-08,Filipino,Single,Female,Manila,Paid,0,False,21,,3.0
+25-4090,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2000-04-16,Filipino,Single,Male,Antipolo,Paid,0,False,21,,4.0
+25-7895,Human Resource Management (BSBA‑HRM),2002-08-25,Filipino,Single,Male,Marikina,With Balance,35863,False,24,,3.0
+25-9209,Information Systems (BS‑IS),2006-02-21,Filipino,Single,Female,Makati,Paid,0,False,18,,4.0
+25-6353,Information Systems (BS‑IS),2001-05-23,Filipino,Single,Male,Quezon City,With Balance,13800,False,24,,4.0
+25-3877,Business Intelligence & Analytics (BSBA‑BIA),2002-12-01,Filipino,Single,Female,Mandaluyong,With Balance,38621,False,21,,4.0
+25-1480,Human Resource Management (BSBA‑HRM),2004-09-03,Filipino,Married,Male,Malabon,Paid,0,False,24,,4.0
+25-3577,Human Resource Management (BSBA‑HRM),2001-04-24,Filipino,Single,Male,San Juan,Paid,0,True,21,,4.0
+25-1579,Cybersecurity (BSCSEC),2006-04-11,Filipino,Single,Female,Marikina,Paid,0,False,15,,2.0
+25-3938,Business Solutions & Applications (BSBA‑BSAA),2000-07-03,Filipino,Single,Female,Muntinlupa,Paid,0,True,24,advising,3.5
+25-5979,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2007-06-19,Japanese,Married,Male,San Mateo,Paid,0,False,15,,4.0
+25-9872,Human Resource Management (BSBA‑HRM),2000-06-01,Filipino,Single,Female,Taguig,With Balance,23756,False,24,,1.0
+25-3332,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2000-04-28,Filipino,Single,Female,Navotas,Paid,0,False,15,,3.0
+25-7461,Business Intelligence & Analytics (BSBA‑BIA),2000-07-22,Korean,Single,Female,Muntinlupa,Paid,0,False,21,,3.5
+25-2223,Business Solutions & Applications (BSBA‑BSAA),2001-03-04,Filipino,Single,Female,Taguig,With Balance,16803,False,24,,3.5
+25-2481,Business Solutions & Applications (BSBA‑BSAA),2004-12-23,Filipino,Single,Female,Pasig,Paid,0,True,18,,3.5
+25-1802,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2002-01-13,Filipino,Single,Male,Taguig,With Balance,14580,False,15,advising,4.0
+25-7563,Human Resource Management (BSBA‑HRM),2001-10-19,Filipino,Single,Male,Makati,Paid,0,False,18,monitoring,4.0
+25-8552,Business Intelligence & Analytics (BSBA‑BIA),2006-12-13,Filipino,Single,Female,Mandaluyong,With Balance,19010,False,21,,4.0
+25-5026,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2006-09-16,Filipino,Single,Male,Valenzuela,With Balance,27229,False,18,,2.0
+25-1319,Information Systems (BS‑IS),2005-08-18,Filipino,Single,Female,Pasay,Paid,0,False,18,monitoring,4.0
+25-8728,Cybersecurity (BSCSEC),2003-03-04,Filipino,Single,Male,San Juan,With Balance,22727,False,21,,1.0
+25-3846,Business Solutions & Applications (BSBA‑BSAA),2005-12-23,Filipino,Single,Female,Rodriguez,Paid,0,False,18,,2.0
+25-9064,Cybersecurity (BSCSEC),2007-01-03,Filipino,Single,Male,Antipolo,Paid,0,False,18,,3.5
+25-3907,Human Resource Management (BSBA‑HRM),2002-10-23,Filipino,Single,Female,Makati,With Balance,22962,False,15,,3.5
+25-3580,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2007-11-11,Filipino,Single,Female,San Juan,With Balance,22398,False,21,,3.5
+25-3911,Interactive Entertainment & Multimedia Computing (BS‑IEMC),1995-10-13,Filipino,Single,Male,Mandaluyong,With Balance,30033,False,18,,4.0
+25-9129,Business Solutions & Applications (BSBA‑BSAA),2001-04-12,Vietnamese,Single,Male,Imus,With Balance,24635,False,15,,4.0
+25-2110,Human Resource Management (BSBA‑HRM),2001-12-01,Filipino,Single,Female,Mandaluyong,Paid,0,False,24,,3.5
+25-8855,Cybersecurity (BSCSEC),2003-03-15,Filipino,Single,Female,Manila,With Balance,12431,False,21,,3.5
+25-2228,Cybersecurity (BSCSEC),2001-06-20,Vietnamese,Single,Male,Valenzuela,Paid,0,False,24,,4.0
+25-4367,Business Solutions & Applications (BSBA‑BSAA),2004-11-10,Filipino,Single,Female,Rodriguez,Paid,0,False,15,,3.5
+25-5825,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2007-04-04,Filipino,Single,Female,Makati,Paid,0,False,24,,2.0
+25-5341,Business Intelligence & Analytics (BSBA‑BIA),2006-03-12,Filipino,Single,Female,Quezon City,Paid,0,False,18,,3.0
+25-3476,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2001-11-12,Filipino,Single,Male,San Mateo,Paid,0,True,24,,3.5
+25-9773,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2007-10-08,Filipino,Single,Male,Antipolo,Paid,0,False,18,monitoring,4.0
+25-3738,Business Solutions & Applications (BSBA‑BSAA),2002-01-14,Filipino,Single,Male,Bacoor,Paid,0,False,21,,2.0
+25-2097,Business Intelligence & Analytics (BSBA‑BIA),2006-09-11,Filipino,Single,Male,Cainta,With Balance,13687,False,24,restrictions,3.0
+25-2641,Business Intelligence & Analytics (BSBA‑BIA),2001-05-28,Filipino,Single,Female,Marikina,Paid,0,False,24,monitoring,3.5
+25-7581,Business Intelligence & Analytics (BSBA‑BIA),2005-12-08,Filipino,Single,Female,Parañaque,Paid,0,True,21,,2.0
+25-2609,Business Solutions & Applications (BSBA‑BSAA),2007-06-09,Filipino,Single,Male,Caloocan,With Balance,23342,False,24,,2.0
+25-1920,Cybersecurity (BSCSEC),2001-05-23,Filipino,Single,Male,Mandaluyong,With Balance,37426,False,15,,3.5
+25-6904,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2005-08-17,Filipino,Single,Male,San Juan,Paid,0,False,18,,3.5
+25-6730,Human Resource Management (BSBA‑HRM),2004-12-27,Filipino,Single,Female,Quezon City,Paid,0,False,18,,3.0
+25-4387,Human Resource Management (BSBA‑HRM),2000-11-01,Filipino,Single,Male,Cainta,Paid,0,False,21,,3.0
+25-5511,Information Systems (BS‑IS),2005-08-09,Filipino,Single,Female,Rodriguez,Paid,0,False,21,,3.0
+25-5631,Human Resource Management (BSBA‑HRM),2007-02-11,Vietnamese,Single,Female,Marikina,With Balance,31347,False,21,,3.0
+25-4937,Business Intelligence & Analytics (BSBA‑BIA),2006-11-11,Filipino,Single,Female,Las Piñas,Paid,0,False,24,,3.0
+25-4111,Human Resource Management (BSBA‑HRM),2003-11-18,Filipino,Single,Female,Antipolo,Paid,0,False,18,,3.5
+25-5237,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2002-11-11,Filipino,Single,Male,Las Piñas,With Balance,22179,False,21,,3.5
+25-2929,Information Systems (BS‑IS),2001-08-07,Filipino,Single,Female,Antipolo,Paid,0,False,18,advising,3.5
+25-8496,Business Solutions & Applications (BSBA‑BSAA),2002-02-16,Filipino,Married,Female,Bacoor,Paid,0,True,24,,3.0
+25-3762,Cybersecurity (BSCSEC),2007-02-05,Filipino,Single,Female,Valenzuela,Paid,0,False,15,,3.0
+25-1230,Human Resource Management (BSBA‑HRM),2003-01-22,Filipino,Single,Male,Parañaque,Paid,0,False,21,,2.0
+25-5885,Human Resource Management (BSBA‑HRM),2005-07-22,American,Single,Female,Parañaque,Paid,0,False,24,advising,3.0
+25-3149,Business Solutions & Applications (BSBA‑BSAA),2002-02-12,Filipino,Single,Female,Bacoor,Paid,0,False,15,,4.0
+25-2771,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2000-12-04,Filipino,Single,Female,Malabon,Paid,0,False,15,,3.0
+25-9524,Human Resource Management (BSBA‑HRM),2002-07-27,Filipino,Single,Male,Las Piñas,Paid,0,False,18,,3.0
+25-9571,Business Solutions & Applications (BSBA‑BSAA),2006-05-06,Filipino,Single,Male,Malabon,Paid,0,False,15,,2.0
+25-9095,Business Solutions & Applications (BSBA‑BSAA),2001-12-24,Filipino,Single,Male,Navotas,Paid,0,False,24,advising,2.0
+25-5760,Human Resource Management (BSBA‑HRM),2005-07-24,Filipino,Single,Male,Manila,Paid,0,False,18,,2.0
+25-5395,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2005-03-04,Filipino,Single,Female,Pasay,Paid,0,False,24,,3.0
+25-2852,Business Solutions & Applications (BSBA‑BSAA),2000-03-04,Filipino,Single,Female,Mandaluyong,With Balance,30032,False,15,,2.0
+25-3140,Information Systems (BS‑IS),2001-07-15,Filipino,Single,Female,Manila,Paid,0,False,18,,3.0
+25-6542,Cybersecurity (BSCSEC),2001-07-22,Filipino,Single,Female,Pasig,Paid,0,False,15,advising,3.0
+25-8688,Information Systems (BS‑IS),2001-08-11,Filipino,Married,Male,Antipolo,Paid,0,False,24,,4.0
+25-8341,Business Intelligence & Analytics (BSBA‑BIA),2007-06-04,Vietnamese,Single,Male,Taguig,Paid,0,False,15,,3.0
+25-5990,Cybersecurity (BSCSEC),2007-06-12,Filipino,Single,Female,Muntinlupa,Paid,0,False,24,,3.5
+25-8414,Business Intelligence & Analytics (BSBA‑BIA),2003-01-11,Filipino,Single,Female,San Mateo,With Balance,11500,False,18,,2.0
+25-7704,Business Intelligence & Analytics (BSBA‑BIA),2003-04-04,Filipino,Single,Female,Caloocan,Paid,0,False,24,restrictions,2.0
+25-3018,Information Systems (BS‑IS),2002-08-01,Filipino,Single,Female,Rodriguez,Paid,0,False,18,,4.0
+25-3103,Business Intelligence & Analytics (BSBA‑BIA),2005-09-13,Filipino,Single,Male,Marikina,Paid,0,False,21,,4.0
+25-7762,Cybersecurity (BSCSEC),2004-12-18,Filipino,Single,Male,Caloocan,With Balance,32498,False,21,,4.0
+25-3913,Cybersecurity (BSCSEC),2005-12-04,Filipino,Single,Female,Imus,With Balance,19369,False,24,,3.0
+25-1414,Information Systems (BS‑IS),2000-04-09,Filipino,Single,Female,Imus,With Balance,32629,False,21,,3.0
+25-6876,Information Systems (BS‑IS),2003-12-21,Filipino,Single,Female,Imus,Paid,0,True,24,,1.0
+25-6122,Cybersecurity (BSCSEC),2004-04-20,Filipino,Single,Female,San Juan,With Balance,31221,False,21,,3.0
+25-4218,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2004-08-06,Vietnamese,Single,Male,Antipolo,Paid,0,False,21,,4.0
+25-5178,Business Intelligence & Analytics (BSBA‑BIA),2002-01-05,Filipino,Single,Female,Malabon,Paid,0,False,15,,3.5
+25-4603,Business Solutions & Applications (BSBA‑BSAA),2002-07-18,Filipino,Single,Male,Caloocan,Paid,0,False,21,,3.0
+25-9691,Information Systems (BS‑IS),2000-02-22,Filipino,Single,Male,Quezon City,Paid,0,False,15,,3.0
+25-5633,Business Intelligence & Analytics (BSBA‑BIA),2005-09-26,Filipino,Single,Female,Bacoor,Paid,0,False,15,,1.0
+25-9814,Cybersecurity (BSCSEC),1990-04-22,Filipino,Single,Female,Taguig,With Balance,38791,False,24,,2.0
+25-3519,Business Intelligence & Analytics (BSBA‑BIA),2007-12-11,Filipino,Single,Male,Marikina,Paid,0,False,18,,3.5
+25-8391,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2006-07-11,Filipino,Single,Male,Bacoor,Paid,0,False,15,,4.0
+25-9238,Business Intelligence & Analytics (BSBA‑BIA),2004-11-10,Filipino,Single,Female,Pasay,Paid,0,False,24,,4.0
+25-7406,Cybersecurity (BSCSEC),2004-11-05,Filipino,Single,Female,Manila,Paid,0,False,15,restrictions,3.0
+25-9800,Cybersecurity (BSCSEC),2001-05-07,Filipino,Single,Female,Caloocan,Paid,0,False,18,,4.0
+25-5140,Business Solutions & Applications (BSBA‑BSAA),2001-03-22,Filipino,Single,Female,Bacoor,Paid,0,False,15,,4.0
+25-8982,Human Resource Management (BSBA‑HRM),2005-03-22,Filipino,Single,Male,Caloocan,Paid,0,False,21,,4.0
+25-6971,Human Resource Management (BSBA‑HRM),2006-03-01,Filipino,Single,Female,Marikina,Paid,0,False,21,,3.5
+25-6877,Human Resource Management (BSBA‑HRM),2007-09-04,Filipino,Single,Female,Pasig,Paid,0,False,15,,2.0
+25-9309,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2000-10-19,Filipino,Single,Male,San Mateo,With Balance,27684,False,24,,4.0
+25-7430,Business Solutions & Applications (BSBA‑BSAA),2004-03-15,Filipino,Single,Female,Antipolo,Paid,0,True,18,,2.0
+25-3717,Cybersecurity (BSCSEC),2002-08-06,Filipino,Single,Male,Malabon,Paid,0,False,24,,3.5
+25-4834,Business Intelligence & Analytics (BSBA‑BIA),2003-09-26,Filipino,Single,Female,Quezon City,Paid,0,True,21,restrictions,3.0
+25-5480,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2004-10-18,Filipino,Single,Female,Parañaque,With Balance,12550,False,21,,2.0
+25-9460,Information Systems (BS‑IS),2005-06-16,Filipino,Single,Male,Antipolo,Paid,0,False,18,restrictions,3.5
+25-3461,Business Solutions & Applications (BSBA‑BSAA),2002-06-20,Filipino,Single,Male,Valenzuela,With Balance,25778,False,24,,3.0
+25-7732,Business Intelligence & Analytics (BSBA‑BIA),2003-01-05,Filipino,Single,Male,Rodriguez,Paid,0,False,18,,3.5
+25-1305,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2004-02-07,Filipino,Married,Female,Mandaluyong,Paid,0,False,18,,2.0
+25-3979,Cybersecurity (BSCSEC),2004-03-24,Filipino,Single,Male,San Juan,Paid,0,False,15,,2.0
+25-9263,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2006-03-20,Filipino,Single,Male,San Mateo,Paid,0,False,24,,2.0
+25-9835,Business Intelligence & Analytics (BSBA‑BIA),2006-09-14,Filipino,Single,Female,San Juan,Paid,0,False,24,,2.0
+25-2600,Information Systems (BS‑IS),2002-05-16,Filipino,Single,Male,Las Piñas,Paid,0,False,21,,3.0
+25-1116,Cybersecurity (BSCSEC),2001-09-01,Filipino,Single,Female,Valenzuela,Paid,0,False,21,,3.0
+25-6990,Cybersecurity (BSCSEC),2004-11-13,Filipino,Single,Female,Mandaluyong,Paid,0,False,21,,3.0
+25-7522,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2002-11-04,Filipino,Single,Male,Taguig,Paid,0,False,21,,3.0
+25-1852,Business Solutions & Applications (BSBA‑BSAA),2006-11-01,Filipino,Single,Female,Cainta,Paid,0,False,18,,3.0
+25-7296,Information Systems (BS‑IS),2004-12-20,Filipino,Single,Male,Bacoor,Paid,0,False,21,,3.0
+25-9364,Cybersecurity (BSCSEC),2003-10-06,Filipino,Single,Male,Mandaluyong,Paid,0,True,21,,3.5
+25-7474,Information Systems (BS‑IS),2003-09-01,Filipino,Single,Male,San Mateo,With Balance,39983,False,21,,2.0
+25-4707,Cybersecurity (BSCSEC),2003-08-13,Filipino,Single,Female,Antipolo,Paid,0,False,21,,4.0
+25-9409,Human Resource Management (BSBA‑HRM),2004-12-15,Korean,Single,Male,Muntinlupa,Paid,0,False,24,,2.0
+25-8896,Business Intelligence & Analytics (BSBA‑BIA),2004-02-13,Filipino,Married,Male,Muntinlupa,Paid,0,False,15,,3.5
+25-5706,Business Intelligence & Analytics (BSBA‑BIA),2006-11-24,Filipino,Single,Male,Malabon,Paid,0,False,21,,3.0
+25-4115,Information Systems (BS‑IS),2003-04-24,Filipino,Single,Male,Caloocan,With Balance,21666,False,18,,4.0
+25-2285,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2007-10-01,Filipino,Single,Male,Malabon,Paid,0,False,21,,1.0
+25-9374,Human Resource Management (BSBA‑HRM),2006-04-25,Filipino,Single,Female,Malabon,Paid,0,False,21,,3.0
+25-3863,Information Systems (BS‑IS),2001-12-17,Filipino,Single,Male,Imus,Paid,0,False,21,,2.0
+25-4066,Cybersecurity (BSCSEC),2004-04-09,Filipino,Single,Female,Mandaluyong,Paid,0,False,21,,3.5
+25-8384,Business Solutions & Applications (BSBA‑BSAA),2002-10-22,Filipino,Single,Female,San Juan,With Balance,16424,False,18,,3.0
+25-8749,Business Intelligence & Analytics (BSBA‑BIA),2002-07-16,Filipino,Single,Female,Malabon,Paid,0,False,15,,3.0
+25-1983,Business Solutions & Applications (BSBA‑BSAA),2004-08-27,Filipino,Single,Female,Marikina,Paid,0,False,21,,3.5
+25-6752,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2003-10-19,Filipino,Single,Female,Parañaque,Paid,0,False,24,,3.5
+25-5694,Information Systems (BS‑IS),2002-03-21,Filipino,Single,Female,Makati,Paid,0,True,21,,3.5
+25-5773,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2004-10-21,Filipino,Single,Female,Rodriguez,Paid,0,False,18,,4.0
+25-4844,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2004-12-23,Filipino,Single,Female,Taguig,Paid,0,True,24,,4.0
+25-7504,Cybersecurity (BSCSEC),2001-02-09,Filipino,Single,Female,Las Piñas,With Balance,24521,False,18,advising,4.0
+25-6846,Human Resource Management (BSBA‑HRM),2007-08-28,Filipino,Single,Female,Pasig,Paid,0,False,18,,3.5
+25-8126,Cybersecurity (BSCSEC),2004-06-16,Filipino,Single,Female,Las Piñas,Paid,0,False,21,restrictions,2.0
+25-3233,Human Resource Management (BSBA‑HRM),2004-08-18,Filipino,Single,Female,Las Piñas,Paid,0,True,24,,3.0
+25-1118,Cybersecurity (BSCSEC),2005-04-14,Filipino,Single,Male,Mandaluyong,Paid,0,False,24,,4.0
+25-4924,Cybersecurity (BSCSEC),2004-05-21,Filipino,Single,Female,Caloocan,Paid,0,False,21,monitoring,3.0
+25-5458,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2007-04-11,Filipino,Single,Male,Mandaluyong,Paid,0,False,18,,3.0
+25-4814,Business Intelligence & Analytics (BSBA‑BIA),2002-01-16,Filipino,Single,Female,Parañaque,With Balance,20821,False,15,,1.0
+25-1918,Human Resource Management (BSBA‑HRM),2006-02-18,Filipino,Single,Female,Pasay,Paid,0,False,18,,1.0
+25-5049,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2000-04-15,Filipino,Single,Male,Malabon,With Balance,20586,False,18,,4.0
+25-9534,Business Intelligence & Analytics (BSBA‑BIA),2004-08-21,Filipino,Single,Male,Imus,Paid,0,False,24,,4.0
+25-5523,Cybersecurity (BSCSEC),2001-07-26,Filipino,Single,Female,Cainta,With Balance,18150,False,18,,3.0
+25-6544,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2000-01-12,Filipino,Single,Male,Pasig,Paid,0,False,21,,3.5
+25-4161,Business Intelligence & Analytics (BSBA‑BIA),2006-06-24,Filipino,Single,Female,Navotas,Paid,0,False,24,,4.0
+25-6696,Human Resource Management (BSBA‑HRM),2007-05-28,Filipino,Single,Male,Makati,Paid,0,False,21,,3.5
+25-9289,Information Systems (BS‑IS),2002-01-20,Filipino,Single,Male,Muntinlupa,Paid,0,False,24,,3.0
+25-3525,Cybersecurity (BSCSEC),2004-06-14,Filipino,Single,Male,Quezon City,Paid,0,False,15,,3.5
+25-2617,Business Intelligence & Analytics (BSBA‑BIA),2006-11-16,Filipino,Single,Female,Quezon City,Paid,0,False,15,advising,3.0
+25-2310,Information Systems (BS‑IS),2000-06-18,Filipino,Single,Female,Quezon City,Paid,0,False,15,,2.0
+25-2276,Business Solutions & Applications (BSBA‑BSAA),2001-02-24,Filipino,Single,Male,Antipolo,Paid,0,False,18,,3.0
+25-2728,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2005-11-15,Filipino,Single,Male,Mandaluyong,Paid,0,False,21,,3.0
+25-8258,Human Resource Management (BSBA‑HRM),2005-09-11,Filipino,Single,Female,Muntinlupa,Paid,0,False,18,,3.0
+25-5162,Human Resource Management (BSBA‑HRM),2007-08-13,Filipino,Single,Female,Cainta,Paid,0,True,18,,3.5
+25-5920,Business Solutions & Applications (BSBA‑BSAA),2003-06-01,Filipino,Single,Female,San Mateo,Paid,0,False,18,monitoring,3.5
+25-3267,Human Resource Management (BSBA‑HRM),2005-10-08,Filipino,Single,Male,Rodriguez,With Balance,34060,False,15,,3.0
+25-3832,Information Systems (BS‑IS),2001-10-21,Filipino,Single,Female,Makati,With Balance,20957,False,21,,3.5
+25-2974,Business Solutions & Applications (BSBA‑BSAA),2000-11-25,Filipino,Single,Male,Muntinlupa,Paid,0,False,18,,3.0
+25-7436,Information Systems (BS‑IS),2001-04-14,Filipino,Single,Male,Muntinlupa,Paid,0,True,15,,3.5
+25-7529,Cybersecurity (BSCSEC),2006-12-05,Filipino,Single,Male,Malabon,Paid,0,False,18,,3.5
+25-8046,Human Resource Management (BSBA‑HRM),2001-02-22,Filipino,Single,Male,Muntinlupa,Paid,0,False,21,,3.5
+25-8245,Cybersecurity (BSCSEC),2002-08-02,Filipino,Single,Female,Pasig,With Balance,13682,False,15,,3.0
+25-5713,Business Intelligence & Analytics (BSBA‑BIA),2005-12-26,Filipino,Single,Male,Muntinlupa,Paid,0,False,18,,3.0
+25-9991,Information Systems (BS‑IS),2002-12-23,Filipino,Single,Male,Marikina,Paid,0,False,21,restrictions,2.0
+25-2091,Information Systems (BS‑IS),2004-11-28,Filipino,Single,Male,Manila,With Balance,22665,False,18,,3.0
+25-2631,Human Resource Management (BSBA‑HRM),2007-10-18,Filipino,Single,Female,San Mateo,Paid,0,False,18,,3.5
+25-9027,Information Systems (BS‑IS),2002-01-12,Filipino,Single,Female,San Juan,With Balance,19039,False,15,,2.0
+25-1482,Cybersecurity (BSCSEC),2004-04-05,Filipino,Single,Male,Makati,Paid,0,False,18,,3.0
+25-7987,Human Resource Management (BSBA‑HRM),2005-08-18,Filipino,Single,Male,Pasig,With Balance,27164,False,18,,2.0
+25-3378,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2002-06-03,Filipino,Single,Male,Mandaluyong,With Balance,33824,False,15,,2.0
+25-7783,Information Systems (BS‑IS),2004-08-24,Filipino,Single,Female,Pasig,Paid,0,False,18,restrictions,3.0
+25-4783,Cybersecurity (BSCSEC),2003-04-22,Filipino,Single,Female,Pasig,Paid,0,False,21,,3.5
+25-8763,Business Solutions & Applications (BSBA‑BSAA),2002-04-08,Filipino,Single,Male,Marikina,Paid,0,False,18,,4.0
+25-8197,Cybersecurity (BSCSEC),2007-12-11,Filipino,Single,Female,Pasay,Paid,0,False,24,,3.5
+25-9784,Cybersecurity (BSCSEC),2000-09-04,Filipino,Single,Male,San Juan,Paid,0,False,15,,3.0
+25-1807,Business Solutions & Applications (BSBA‑BSAA),2004-08-13,Filipino,Single,Female,Navotas,Paid,0,False,15,,2.0
+25-8595,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2007-02-24,Filipino,Single,Male,Pasay,Paid,0,False,18,,2.0
+25-4308,Information Systems (BS‑IS),2001-05-11,Filipino,Single,Male,Taguig,Paid,0,True,24,,4.0
+25-7292,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2002-07-18,Filipino,Single,Female,Rodriguez,With Balance,15312,False,18,,3.0
+25-7874,Human Resource Management (BSBA‑HRM),2004-12-25,Korean,Single,Male,Taguig,With Balance,10115,False,21,monitoring,2.0
+25-9904,Business Intelligence & Analytics (BSBA‑BIA),2007-04-07,Filipino,Single,Female,Navotas,Paid,0,True,15,,3.0
+25-4401,Business Intelligence & Analytics (BSBA‑BIA),2002-03-02,Filipino,Single,Male,Imus,Paid,0,False,21,,4.0
+25-7831,Business Solutions & Applications (BSBA‑BSAA),2002-11-10,Filipino,Single,Male,Navotas,Paid,0,False,15,monitoring,3.5
+25-7208,Business Intelligence & Analytics (BSBA‑BIA),2006-09-03,Filipino,Single,Female,Muntinlupa,Paid,0,False,18,,4.0
+25-9666,Business Intelligence & Analytics (BSBA‑BIA),2007-12-23,Filipino,Single,Female,Valenzuela,Paid,0,False,21,,3.0
+25-9132,Cybersecurity (BSCSEC),2007-08-26,Filipino,Single,Female,Caloocan,Paid,0,True,15,,3.0
+25-4396,Cybersecurity (BSCSEC),2006-07-02,Filipino,Single,Male,Manila,Paid,0,False,21,,3.5
+25-9301,Cybersecurity (BSCSEC),2005-01-04,Filipino,Single,Male,Mandaluyong,With Balance,32035,False,24,,3.0
+25-3224,Information Systems (BS‑IS),2002-11-15,Filipino,Single,Female,Navotas,Paid,0,False,15,,3.5
+25-6169,Cybersecurity (BSCSEC),2000-04-19,Filipino,Single,Female,Makati,Paid,0,False,15,,3.5
+25-9753,Business Solutions & Applications (BSBA‑BSAA),2006-03-20,Filipino,Single,Female,Muntinlupa,Paid,0,False,15,,4.0
+25-8404,Human Resource Management (BSBA‑HRM),2003-09-10,Filipino,Single,Male,Caloocan,Paid,0,False,15,,2.0
+25-3524,Business Solutions & Applications (BSBA‑BSAA),2005-08-24,Filipino,Single,Female,Pasig,Paid,0,False,18,,4.0
+25-7350,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2001-01-10,Filipino,Single,Male,Muntinlupa,Paid,0,False,21,monitoring,3.0
+25-4438,Human Resource Management (BSBA‑HRM),2003-04-10,Filipino,Single,Female,Imus,Paid,0,False,21,restrictions,3.0
+25-2677,Business Solutions & Applications (BSBA‑BSAA),2005-09-11,Filipino,Single,Female,Rodriguez,Paid,0,False,21,,4.0
+25-1475,Information Systems (BS‑IS),2000-02-13,Filipino,Single,Male,Cainta,Paid,0,False,24,,3.5
+25-4246,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2001-08-19,Filipino,Single,Female,Taguig,Paid,0,False,24,,2.0
+25-3354,Cybersecurity (BSCSEC),2004-06-13,Filipino,Single,Female,Muntinlupa,Paid,0,False,24,monitoring,3.5
+25-3798,Human Resource Management (BSBA‑HRM),2005-10-19,Filipino,Single,Male,Muntinlupa,Paid,0,False,21,,3.5
+25-7773,Business Solutions & Applications (BSBA‑BSAA),2003-09-06,Japanese,Single,Female,Caloocan,Paid,0,False,24,,3.5
+25-4869,Business Solutions & Applications (BSBA‑BSAA),2001-12-23,Filipino,Single,Female,Muntinlupa,With Balance,15772,False,21,,4.0
+25-2781,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2006-06-16,Filipino,Single,Male,Pasig,With Balance,30844,False,15,,3.0
+25-8421,Cybersecurity (BSCSEC),2004-07-20,Filipino,Single,Female,Las Piñas,With Balance,19979,False,24,,2.0
+25-2462,Cybersecurity (BSCSEC),2000-10-17,Filipino,Single,Female,Quezon City,Paid,0,False,15,restrictions,2.0
+25-6885,Business Intelligence & Analytics (BSBA‑BIA),2004-01-08,Filipino,Single,Female,Pasay,Paid,0,False,18,,3.5
+25-4083,Cybersecurity (BSCSEC),2006-06-27,Filipino,Single,Male,Pasig,Paid,0,True,15,monitoring,3.0
+25-2387,Business Solutions & Applications (BSBA‑BSAA),2006-08-26,Filipino,Single,Male,Navotas,Paid,0,False,24,,4.0
+25-7959,Cybersecurity (BSCSEC),2000-10-16,Filipino,Single,Female,Valenzuela,Paid,0,False,15,,3.0
+25-7038,Business Intelligence & Analytics (BSBA‑BIA),2007-12-03,Filipino,Single,Female,Navotas,Paid,0,False,15,,3.0
+25-2279,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2004-10-02,Filipino,Single,Male,Malabon,With Balance,28807,False,21,,1.0
+25-5827,Human Resource Management (BSBA‑HRM),2002-01-23,Filipino,Single,Female,Quezon City,Paid,0,False,15,,3.5
+24-1447,Human Resource Management (BSBA‑HRM),2007-02-05,Filipino,Single,Female,Marikina,Paid,0,False,21,advising,3.0
+24-3476,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2007-06-26,Filipino,Single,Male,Malabon,Paid,0,False,15,,4.0
+24-3376,Cybersecurity (BSCSEC),2002-08-25,American,Single,Male,Imus,Paid,0,False,18,,2.0
+24-1890,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2004-02-02,Filipino,Single,Female,Malabon,With Balance,27449,False,18,,3.0
+24-8775,Human Resource Management (BSBA‑HRM),2002-09-28,Filipino,Single,Female,Pasay,With Balance,32376,False,15,restrictions,3.0
+24-8074,Cybersecurity (BSCSEC),2004-06-09,Filipino,Single,Female,Navotas,With Balance,34061,False,18,,3.0
+24-3947,Human Resource Management (BSBA‑HRM),2000-11-01,Filipino,Single,Male,Antipolo,Paid,0,False,18,,3.5
+24-1557,Business Intelligence & Analytics (BSBA‑BIA),2001-01-20,Filipino,Single,Male,Taguig,Paid,0,True,18,,3.0
+24-4027,Business Intelligence & Analytics (BSBA‑BIA),2002-05-10,Filipino,Single,Female,Marikina,Paid,0,False,21,,3.0
+24-5543,Business Intelligence & Analytics (BSBA‑BIA),2006-07-11,American,Single,Female,Mandaluyong,Paid,0,False,18,,4.0
+24-9061,Business Intelligence & Analytics (BSBA‑BIA),2002-09-25,Filipino,Single,Male,Navotas,Paid,0,False,15,restrictions,3.5
+24-8305,Business Intelligence & Analytics (BSBA‑BIA),2007-03-21,Filipino,Single,Female,Marikina,Paid,0,False,24,,3.0
+24-9039,Information Systems (BS‑IS),2006-07-28,Filipino,Single,Male,San Mateo,Paid,0,False,24,restrictions,2.0
+24-6880,Human Resource Management (BSBA‑HRM),2004-07-02,Filipino,Single,Male,Parañaque,With Balance,12636,False,24,,3.5
+24-4327,Business Solutions & Applications (BSBA‑BSAA),2000-07-22,Filipino,Single,Male,Bacoor,Paid,0,False,24,,4.0
+24-4163,Business Intelligence & Analytics (BSBA‑BIA),2003-08-13,Filipino,Single,Female,Malabon,With Balance,24722,False,15,advising,3.5
+24-1701,Information Systems (BS‑IS),2001-04-26,Filipino,Single,Male,Rodriguez,Paid,0,False,18,,4.0
+24-1750,Business Solutions & Applications (BSBA‑BSAA),2002-01-06,Filipino,Single,Male,Navotas,With Balance,12095,False,15,restrictions,3.0
+24-4613,Business Intelligence & Analytics (BSBA‑BIA),2003-07-11,Filipino,Married,Female,Muntinlupa,Paid,0,False,18,,1.0
+24-4493,Business Intelligence & Analytics (BSBA‑BIA),2002-06-03,Filipino,Single,Female,Mandaluyong,Paid,0,False,24,,3.0
+24-3185,Business Intelligence & Analytics (BSBA‑BIA),2006-03-01,Filipino,Single,Male,Mandaluyong,With Balance,29455,False,21,,2.0
+24-8798,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2002-04-05,Filipino,Single,Female,San Juan,Paid,0,False,15,,3.0
+24-2442,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2004-06-14,Filipino,Single,Male,Antipolo,Paid,0,False,18,,3.0
+24-4409,Human Resource Management (BSBA‑HRM),2000-04-04,Filipino,Single,Female,Malabon,Paid,0,False,15,monitoring,3.5
+24-8121,Human Resource Management (BSBA‑HRM),2005-10-26,Filipino,Single,Male,Quezon City,Paid,0,False,15,,4.0
+24-4855,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2007-10-19,Filipino,Single,Female,San Juan,Paid,0,False,15,,3.5
+24-4276,Information Systems (BS‑IS),2003-02-16,Filipino,Single,Female,Pasig,Paid,0,False,18,,4.0
+24-4181,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2005-05-07,Filipino,Single,Male,Marikina,With Balance,25026,False,24,,3.5
+24-5835,Cybersecurity (BSCSEC),2002-11-20,Filipino,Single,Male,Makati,Paid,0,False,18,,2.0
+24-5573,Business Intelligence & Analytics (BSBA‑BIA),2006-12-28,Filipino,Single,Male,Rodriguez,With Balance,39433,False,15,,4.0
+24-8711,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2000-07-17,Filipino,Single,Male,Navotas,Paid,0,False,15,,3.5
+24-4571,Business Solutions & Applications (BSBA‑BSAA),2005-05-08,Filipino,Single,Female,Imus,With Balance,38112,False,15,,3.5
+24-3271,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2006-03-26,Filipino,Single,Male,Bacoor,Paid,0,True,21,,3.5
+24-5420,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2003-11-03,Filipino,Single,Male,Antipolo,Paid,0,False,15,monitoring,3.5
+24-1669,Human Resource Management (BSBA‑HRM),2005-03-21,Filipino,Single,Male,Pasig,Paid,0,False,15,,3.0
+24-4437,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2003-06-12,Filipino,Single,Female,Marikina,Paid,0,True,21,,3.5
+24-9629,Business Intelligence & Analytics (BSBA‑BIA),2007-12-18,Filipino,Single,Female,Navotas,With Balance,32715,False,15,,2.0
+24-2430,Business Intelligence & Analytics (BSBA‑BIA),2006-03-10,Chinese,Single,Male,Marikina,Paid,0,False,18,,3.0
+24-1371,Human Resource Management (BSBA‑HRM),2006-11-18,Filipino,Single,Female,Navotas,Paid,0,False,18,advising,2.0
+24-9513,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2005-07-19,Filipino,Single,Female,Malabon,Paid,0,False,24,,3.0
+24-6021,Business Solutions & Applications (BSBA‑BSAA),2004-04-16,Filipino,Single,Male,Pasig,Paid,0,False,18,,4.0
+24-9770,Human Resource Management (BSBA‑HRM),2002-03-27,Filipino,Single,Male,Mandaluyong,Paid,0,False,21,,3.5
+24-7056,Business Solutions & Applications (BSBA‑BSAA),2003-09-23,Filipino,Single,Female,Pasig,Paid,0,False,18,,4.0
+24-1408,Information Systems (BS‑IS),2007-03-15,Filipino,Single,Female,Bacoor,Paid,0,False,21,,3.0
+24-3409,Cybersecurity (BSCSEC),2007-06-23,Filipino,Single,Male,Pasig,Paid,0,False,15,,2.0
+24-8306,Human Resource Management (BSBA‑HRM),2001-06-02,Filipino,Single,Male,Marikina,Paid,0,False,24,,1.0
+24-9385,Information Systems (BS‑IS),2003-08-11,Filipino,Single,Male,Imus,Paid,0,False,24,,3.5
+24-5663,Human Resource Management (BSBA‑HRM),2005-05-15,Filipino,Single,Female,Valenzuela,Paid,0,False,24,,3.5
+24-2410,Business Solutions & Applications (BSBA‑BSAA),2003-05-16,Vietnamese,Single,Female,Makati,Paid,0,False,24,monitoring,3.0
+24-5478,Information Systems (BS‑IS),2002-09-15,Filipino,Single,Male,Caloocan,Paid,0,False,24,monitoring,2.0
+24-5979,Information Systems (BS‑IS),2007-04-01,Filipino,Single,Female,Bacoor,Paid,0,False,21,,3.5
+24-5009,Business Intelligence & Analytics (BSBA‑BIA),2001-05-16,American,Single,Female,Rodriguez,Paid,0,False,21,,3.5
+24-2959,Human Resource Management (BSBA‑HRM),2000-05-06,Filipino,Single,Female,Pasig,Paid,0,False,21,,2.0
+24-6832,Business Intelligence & Analytics (BSBA‑BIA),2004-05-17,Filipino,Single,Male,Bacoor,Paid,0,False,18,,2.0
+24-5932,Human Resource Management (BSBA‑HRM),2005-02-18,Filipino,Single,Male,Pasig,Paid,0,False,24,,2.0
+24-3671,Business Intelligence & Analytics (BSBA‑BIA),2003-03-17,Filipino,Single,Male,Valenzuela,Paid,0,False,18,,3.5
+24-6104,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2005-03-27,Filipino,Married,Female,Mandaluyong,Paid,0,False,15,,2.0
+24-3332,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2003-05-05,Filipino,Married,Female,Taguig,Paid,0,True,24,,4.0
+24-2766,Business Intelligence & Analytics (BSBA‑BIA),2000-08-04,Filipino,Single,Female,Imus,Paid,0,True,15,,2.0
+24-4365,Cybersecurity (BSCSEC),2003-03-22,Filipino,Single,Female,Rodriguez,Paid,0,False,18,,4.0
+24-1229,Cybersecurity (BSCSEC),2003-12-07,Korean,Single,Male,Taguig,With Balance,37895,False,24,,3.0
+24-8203,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2001-03-27,Filipino,Single,Male,Antipolo,Paid,0,False,21,advising,3.0
+24-9123,Human Resource Management (BSBA‑HRM),2004-09-24,Filipino,Single,Male,Pasay,Paid,0,False,21,,2.0
+24-4700,Cybersecurity (BSCSEC),2006-05-28,Filipino,Single,Female,Imus,Paid,0,False,24,,3.5
+24-9563,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2001-02-05,Filipino,Single,Male,Mandaluyong,Paid,0,True,18,,3.0
+24-7623,Business Intelligence & Analytics (BSBA‑BIA),2003-07-24,Filipino,Single,Female,Bacoor,Paid,0,False,24,,3.0
+24-3414,Information Systems (BS‑IS),2001-02-09,Filipino,Single,Male,Manila,Paid,0,True,15,,3.5
+24-1438,Business Solutions & Applications (BSBA‑BSAA),2006-10-22,Filipino,Single,Male,Makati,Paid,0,False,24,,4.0
+24-9157,Information Systems (BS‑IS),2004-09-11,Filipino,Single,Male,Quezon City,With Balance,13903,False,24,,2.0
+24-8250,Information Systems (BS‑IS),2000-01-06,Filipino,Single,Female,Mandaluyong,Paid,0,False,24,,4.0
+24-9037,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2007-08-18,Filipino,Single,Female,Marikina,With Balance,30215,False,21,,3.5
+24-2006,Business Intelligence & Analytics (BSBA‑BIA),2000-03-27,Filipino,Single,Male,Bacoor,Paid,0,False,21,,3.5
+24-1924,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2003-04-08,Filipino,Single,Male,Las Piñas,Paid,0,False,21,restrictions,2.0
+24-9433,Information Systems (BS‑IS),2004-01-23,Filipino,Single,Female,Pasay,Paid,0,False,15,,4.0
+24-4373,Human Resource Management (BSBA‑HRM),2007-09-26,Filipino,Single,Female,Parañaque,Paid,0,False,15,,3.0
+24-5708,Human Resource Management (BSBA‑HRM),2000-05-19,Filipino,Single,Male,Rodriguez,Paid,0,True,21,,3.0
+24-9700,Information Systems (BS‑IS),2006-04-12,Filipino,Single,Female,Antipolo,Paid,0,False,21,,3.5
+24-9443,Information Systems (BS‑IS),2002-01-21,Filipino,Single,Female,Caloocan,With Balance,25312,False,21,,3.0
+24-8106,Cybersecurity (BSCSEC),2000-09-07,Filipino,Single,Male,Imus,With Balance,23443,False,21,,2.0
+24-4335,Information Systems (BS‑IS),2004-05-21,Filipino,Single,Male,Pasay,Paid,0,False,15,,2.0
+24-8604,Information Systems (BS‑IS),2006-07-21,Filipino,Single,Female,Pasig,Paid,0,True,21,,4.0
+24-1691,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2007-01-02,Filipino,Single,Female,Makati,Paid,0,False,21,,2.0
+24-7502,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2002-04-04,Filipino,Single,Male,Antipolo,Paid,0,False,21,,4.0
+24-3003,Human Resource Management (BSBA‑HRM),2005-10-24,Filipino,Single,Male,Valenzuela,Paid,0,False,18,,3.5
+24-5166,Cybersecurity (BSCSEC),2000-08-18,Filipino,Single,Female,San Mateo,Paid,0,False,21,,2.0
+24-6947,Information Systems (BS‑IS),2005-05-01,Filipino,Single,Male,Imus,Paid,0,False,18,,3.5
+24-6945,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2001-09-28,Filipino,Single,Male,Pasay,With Balance,19859,False,15,,3.0
+24-5872,Business Solutions & Applications (BSBA‑BSAA),2002-08-21,Filipino,Single,Female,Quezon City,Paid,0,False,24,,3.5
+24-6451,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2006-02-27,Filipino,Single,Male,Parañaque,With Balance,27947,False,21,,4.0
+24-1853,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2002-11-15,Filipino,Single,Female,Caloocan,Paid,0,False,15,advising,3.0
+24-3131,Cybersecurity (BSCSEC),2006-06-15,Filipino,Single,Female,Mandaluyong,With Balance,36198,False,21,,3.5
+24-3980,Information Systems (BS‑IS),2006-10-08,Filipino,Single,Male,Makati,Paid,0,False,18,restrictions,3.5
+24-5262,Business Solutions & Applications (BSBA‑BSAA),2001-06-06,Filipino,Single,Female,Navotas,Paid,0,False,18,,4.0
+24-5361,Human Resource Management (BSBA‑HRM),2007-07-05,Filipino,Single,Male,Las Piñas,Paid,0,False,18,,4.0
+24-5754,Human Resource Management (BSBA‑HRM),2003-10-15,Filipino,Single,Female,Makati,Paid,0,True,18,,1.0
+24-7513,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2003-12-13,Filipino,Single,Female,Makati,Paid,0,True,15,advising,3.5
+24-6804,Cybersecurity (BSCSEC),2000-01-09,Filipino,Single,Female,Imus,With Balance,28335,False,15,,3.5
+24-9253,Information Systems (BS‑IS),2005-08-05,Filipino,Single,Female,Pasig,Paid,0,False,18,,1.0
+24-5603,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2005-07-10,Filipino,Single,Female,Antipolo,With Balance,20339,False,24,,4.0
+24-8208,Business Intelligence & Analytics (BSBA‑BIA),2003-03-02,Filipino,Single,Female,Mandaluyong,Paid,0,False,24,monitoring,1.0
+24-8949,Information Systems (BS‑IS),2007-02-28,Filipino,Single,Female,Makati,Paid,0,False,18,,2.0
+24-4479,Cybersecurity (BSCSEC),2000-09-25,Filipino,Single,Male,San Juan,Paid,0,False,21,restrictions,1.0
+24-2998,Information Systems (BS‑IS),2005-10-04,Filipino,Single,Male,Navotas,Paid,0,False,24,,3.5
+24-1095,Human Resource Management (BSBA‑HRM),2000-11-20,Chinese,Single,Male,Caloocan,With Balance,19271,False,21,,3.0
+24-9964,Cybersecurity (BSCSEC),2006-02-13,Filipino,Single,Female,Makati,Paid,0,True,18,,3.0
+24-5668,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2002-02-10,Filipino,Single,Female,Imus,Paid,0,False,15,,3.0
+24-9021,Information Systems (BS‑IS),2006-08-09,Filipino,Single,Female,Parañaque,Paid,0,False,24,restrictions,3.5
+24-8594,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2003-11-22,Filipino,Single,Male,Las Piñas,Paid,0,False,24,,1.0
+24-5921,Business Solutions & Applications (BSBA‑BSAA),2006-05-19,Filipino,Single,Male,Antipolo,Paid,0,False,15,,3.0
+24-5151,Human Resource Management (BSBA‑HRM),2004-10-03,Filipino,Single,Female,Mandaluyong,With Balance,11483,False,15,,3.0
+24-6143,Cybersecurity (BSCSEC),2007-11-15,Filipino,Single,Male,Caloocan,With Balance,29793,False,21,,4.0
+24-9755,Business Intelligence & Analytics (BSBA‑BIA),2000-07-04,Filipino,Single,Female,Pasay,With Balance,29722,False,24,,2.0
+24-6910,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2006-05-03,Filipino,Single,Male,Manila,Paid,0,False,15,,3.0
+24-4961,Information Systems (BS‑IS),2003-02-10,Filipino,Single,Female,Manila,With Balance,34208,False,24,,3.5
+24-8364,Cybersecurity (BSCSEC),2003-04-10,Filipino,Single,Male,Muntinlupa,Paid,0,True,24,,2.0
+24-5764,Business Intelligence & Analytics (BSBA‑BIA),2007-07-16,Filipino,Single,Female,San Juan,Paid,0,False,24,,3.0
+24-5388,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2006-08-04,Filipino,Single,Female,Navotas,Paid,0,False,21,,3.5
+24-8178,Business Solutions & Applications (BSBA‑BSAA),2003-10-22,Filipino,Single,Female,Pasig,With Balance,22791,False,24,,3.0
+24-6902,Information Systems (BS‑IS),2002-10-07,Filipino,Single,Female,Pasig,Paid,0,False,24,monitoring,2.0
+24-9089,Human Resource Management (BSBA‑HRM),2003-04-18,Filipino,Single,Female,Parañaque,Paid,0,False,15,,3.5
+24-2867,Cybersecurity (BSCSEC),2003-02-18,Filipino,Single,Female,Parañaque,With Balance,28252,False,21,,2.0
+24-9444,Cybersecurity (BSCSEC),2001-12-02,Filipino,Single,Female,Taguig,With Balance,29977,False,15,,4.0
+24-2727,Business Solutions & Applications (BSBA‑BSAA),2001-04-12,Filipino,Single,Female,Antipolo,With Balance,15055,False,21,,4.0
+24-4307,Information Systems (BS‑IS),2006-01-08,Filipino,Single,Female,Antipolo,Paid,0,False,24,,3.0
+24-3483,Cybersecurity (BSCSEC),2006-04-05,Filipino,Single,Female,Navotas,Paid,0,False,21,,3.5
+24-1162,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2001-02-11,Filipino,Married,Male,Valenzuela,Paid,0,True,15,,3.0
+24-1947,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2004-07-13,Filipino,Single,Female,Muntinlupa,Paid,0,False,21,,3.0
+24-3406,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2006-08-21,Filipino,Single,Female,Parañaque,With Balance,23254,False,18,,4.0
+24-9805,Human Resource Management (BSBA‑HRM),2006-12-24,Filipino,Single,Female,Caloocan,Paid,0,True,21,,3.0
+24-3621,Business Intelligence & Analytics (BSBA‑BIA),2000-09-19,Filipino,Single,Female,Valenzuela,Paid,0,False,15,,3.5
+24-9314,Human Resource Management (BSBA‑HRM),2001-01-25,Filipino,Single,Female,Rodriguez,Paid,0,False,18,,1.0
+24-9737,Cybersecurity (BSCSEC),2003-06-10,Filipino,Single,Male,Pasay,Paid,0,False,21,,4.0
+24-6919,Information Systems (BS‑IS),2001-03-23,Filipino,Single,Male,Quezon City,Paid,0,False,18,,3.5
+24-9622,Information Systems (BS‑IS),2006-05-19,Filipino,Single,Female,Malabon,Paid,0,False,18,advising,3.5
+24-8499,Business Solutions & Applications (BSBA‑BSAA),2001-12-07,Filipino,Single,Male,San Mateo,With Balance,29713,False,24,monitoring,3.0
+24-1659,Cybersecurity (BSCSEC),2002-02-12,Filipino,Single,Female,Malabon,Paid,0,True,18,restrictions,3.5
+24-5999,Human Resource Management (BSBA‑HRM),2003-03-27,Filipino,Single,Female,Makati,Paid,0,False,21,,2.0
+24-7181,Information Systems (BS‑IS),2002-03-17,Filipino,Single,Female,Pasig,Paid,0,False,24,,2.0
+24-6554,Cybersecurity (BSCSEC),2000-11-15,Filipino,Single,Male,Manila,With Balance,33180,False,21,,4.0
+24-2395,Business Solutions & Applications (BSBA‑BSAA),2000-10-17,Filipino,Single,Male,Taguig,Paid,0,False,15,,4.0
+24-8278,Business Intelligence & Analytics (BSBA‑BIA),2005-07-19,Filipino,Single,Male,Muntinlupa,Paid,0,False,21,,4.0
+24-2627,Cybersecurity (BSCSEC),2002-05-05,Filipino,Single,Male,Las Piñas,Paid,0,False,15,,3.5
+24-1445,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2000-05-13,Filipino,Single,Female,Marikina,With Balance,13963,False,15,,3.0
+24-4874,Information Systems (BS‑IS),2006-02-09,Filipino,Single,Female,Makati,Paid,0,False,18,,4.0
+24-2663,Business Solutions & Applications (BSBA‑BSAA),2002-05-19,Filipino,Single,Male,Pasig,With Balance,35625,False,18,,3.5
+24-8401,Business Intelligence & Analytics (BSBA‑BIA),2000-08-27,Filipino,Single,Male,Manila,Paid,0,True,24,,3.5
+24-7228,Human Resource Management (BSBA‑HRM),2003-10-27,Filipino,Single,Male,Las Piñas,Paid,0,True,15,,3.0
+24-5578,Information Systems (BS‑IS),2003-10-17,Chinese,Single,Female,Bacoor,With Balance,24834,False,21,,1.0
+24-6597,Business Solutions & Applications (BSBA‑BSAA),2007-10-11,Filipino,Single,Male,Cainta,With Balance,32043,False,18,,2.0
+24-9011,Information Systems (BS‑IS),2001-11-21,Filipino,Single,Female,Imus,With Balance,22333,False,21,,2.0
+24-1138,Business Intelligence & Analytics (BSBA‑BIA),2007-06-07,Filipino,Single,Male,Marikina,With Balance,16275,False,15,,3.0
+24-4623,Business Solutions & Applications (BSBA‑BSAA),2007-06-02,Filipino,Single,Male,Manila,With Balance,22978,False,15,,3.0
+24-9093,Business Solutions & Applications (BSBA‑BSAA),2003-11-24,Filipino,Single,Male,Makati,With Balance,14175,False,21,,2.0
+24-9570,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2004-04-28,Filipino,Married,Female,Imus,Paid,0,False,24,,2.0
+24-1849,Human Resource Management (BSBA‑HRM),2006-07-09,Filipino,Single,Female,Parañaque,Paid,0,False,18,monitoring,3.0
+24-6181,Business Intelligence & Analytics (BSBA‑BIA),2006-04-11,Filipino,Single,Male,San Juan,Paid,0,False,15,,4.0
+24-6394,Human Resource Management (BSBA‑HRM),2001-11-21,Filipino,Single,Male,Rodriguez,With Balance,37541,False,21,,3.5
+24-6583,Business Intelligence & Analytics (BSBA‑BIA),2005-09-26,Filipino,Single,Female,Taguig,Paid,0,False,15,,2.0
+24-7183,Human Resource Management (BSBA‑HRM),2001-03-02,Filipino,Single,Female,Cainta,Paid,0,False,15,,3.5
+24-7249,Information Systems (BS‑IS),2001-10-25,Filipino,Single,Male,Navotas,With Balance,38833,False,15,,2.0
+24-1425,Information Systems (BS‑IS),2005-10-07,Filipino,Single,Male,Rodriguez,Paid,0,False,18,,3.5
+24-7897,Information Systems (BS‑IS),2007-03-08,Filipino,Single,Male,Las Piñas,Paid,0,False,21,,2.0
+24-3385,Business Solutions & Applications (BSBA‑BSAA),2007-05-20,Filipino,Single,Male,Antipolo,Paid,0,False,15,,2.0
+24-1894,Information Systems (BS‑IS),2005-04-07,Filipino,Single,Male,Muntinlupa,Paid,0,False,24,,3.5
+24-6499,Cybersecurity (BSCSEC),2004-07-11,Filipino,Single,Male,Malabon,Paid,0,False,18,,3.5
+24-4492,Business Solutions & Applications (BSBA‑BSAA),2007-12-25,Chinese,Single,Female,Caloocan,With Balance,10220,False,21,monitoring,4.0
+24-2887,Business Solutions & Applications (BSBA‑BSAA),2004-08-07,Filipino,Single,Female,Quezon City,Paid,0,False,21,,2.0
+24-3855,Human Resource Management (BSBA‑HRM),2003-03-07,Filipino,Single,Male,Manila,Paid,0,False,15,,4.0
+24-8474,Business Solutions & Applications (BSBA‑BSAA),2005-06-22,Filipino,Single,Female,Makati,With Balance,14285,False,18,,3.5
+24-7131,Human Resource Management (BSBA‑HRM),2006-11-08,Filipino,Single,Male,San Mateo,Paid,0,False,18,monitoring,2.0
+24-9327,Cybersecurity (BSCSEC),2007-04-24,Filipino,Single,Male,Mandaluyong,With Balance,31137,False,21,,3.5
+24-6272,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2005-09-23,Filipino,Single,Female,Marikina,Paid,0,False,15,,2.0
+24-8406,Business Solutions & Applications (BSBA‑BSAA),2006-04-10,Filipino,Single,Male,Parañaque,Paid,0,False,15,,3.0
+24-4771,Cybersecurity (BSCSEC),2000-08-17,Filipino,Single,Female,Valenzuela,With Balance,20388,False,21,,4.0
+24-4830,Human Resource Management (BSBA‑HRM),2001-06-03,Filipino,Single,Male,Marikina,Paid,0,False,15,,3.0
+24-6468,Business Solutions & Applications (BSBA‑BSAA),2005-05-10,Filipino,Single,Female,Caloocan,With Balance,38016,False,21,monitoring,3.5
+24-6679,Information Systems (BS‑IS),2006-10-25,Filipino,Single,Male,Pasay,With Balance,16877,False,24,,3.0
+24-8679,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2007-06-26,Filipino,Single,Female,Valenzuela,Paid,0,False,15,,3.0
+24-3102,Human Resource Management (BSBA‑HRM),2000-08-26,Filipino,Single,Male,Valenzuela,With Balance,34996,False,21,,4.0
+24-1527,Business Solutions & Applications (BSBA‑BSAA),2002-06-19,Filipino,Single,Female,Pasay,Paid,0,False,24,,4.0
+24-8397,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2004-02-06,Filipino,Single,Male,Cainta,Paid,0,False,15,,3.5
+24-4818,Human Resource Management (BSBA‑HRM),2001-08-02,Filipino,Single,Female,Valenzuela,With Balance,14231,False,24,,4.0
+24-4382,Business Solutions & Applications (BSBA‑BSAA),2003-05-14,Filipino,Single,Male,Cainta,Paid,0,False,18,,3.0
+24-5512,Business Solutions & Applications (BSBA‑BSAA),2000-03-15,Filipino,Single,Male,Antipolo,Paid,0,False,24,,3.0
+24-2492,Human Resource Management (BSBA‑HRM),2007-06-23,Filipino,Single,Female,Cainta,With Balance,23600,False,18,,3.0
+24-8079,Information Systems (BS‑IS),2006-11-06,Filipino,Single,Male,San Juan,Paid,0,False,21,,4.0
+24-4559,Information Systems (BS‑IS),2006-09-04,American,Single,Male,Antipolo,Paid,0,False,24,,4.0
+24-1731,Information Systems (BS‑IS),2000-02-21,Filipino,Single,Female,Muntinlupa,With Balance,22998,False,15,advising,3.0
+24-3236,Human Resource Management (BSBA‑HRM),2007-08-15,Filipino,Single,Male,Navotas,With Balance,37576,False,18,,4.0
+24-2646,Business Solutions & Applications (BSBA‑BSAA),2004-02-18,Filipino,Single,Male,Imus,Paid,0,False,18,,4.0
+24-9721,Business Solutions & Applications (BSBA‑BSAA),2007-12-02,Filipino,Single,Male,Pasay,Paid,0,False,15,monitoring,3.0
+24-5091,Human Resource Management (BSBA‑HRM),2003-04-03,Filipino,Single,Male,Muntinlupa,Paid,0,False,15,,2.0
+24-3750,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2002-01-14,Filipino,Single,Female,San Mateo,Paid,0,False,24,,4.0
+24-4502,Business Intelligence & Analytics (BSBA‑BIA),2005-06-06,Filipino,Single,Male,Pasay,Paid,0,False,21,,3.5
+24-2103,Business Solutions & Applications (BSBA‑BSAA),2006-05-25,Filipino,Married,Male,San Mateo,With Balance,28651,False,18,,4.0
+24-6314,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2006-11-25,Filipino,Single,Female,Imus,Paid,0,False,24,,3.0
+24-4808,Cybersecurity (BSCSEC),2000-04-01,Filipino,Single,Female,San Juan,With Balance,30308,False,15,monitoring,3.5
+24-4309,Business Solutions & Applications (BSBA‑BSAA),2006-04-21,Filipino,Single,Female,Muntinlupa,Paid,0,False,15,,1.0
+24-5726,Business Intelligence & Analytics (BSBA‑BIA),2003-12-11,Filipino,Single,Male,Imus,With Balance,32815,False,18,,3.5
+24-6269,Business Solutions & Applications (BSBA‑BSAA),2007-11-01,Filipino,Single,Male,Quezon City,Paid,0,False,18,advising,3.0
+24-4348,Business Solutions & Applications (BSBA‑BSAA),2001-07-24,Filipino,Single,Male,San Juan,Paid,0,False,21,,3.5
+24-4299,Human Resource Management (BSBA‑HRM),2007-02-12,Filipino,Single,Female,Valenzuela,With Balance,34914,False,18,,3.0
+24-1324,Information Systems (BS‑IS),2006-02-25,Filipino,Single,Male,San Mateo,Paid,0,False,24,,3.5
+24-8878,Business Intelligence & Analytics (BSBA‑BIA),2005-03-23,Filipino,Single,Male,Manila,Paid,0,True,21,,2.0
+24-7465,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2005-07-16,Filipino,Married,Male,Valenzuela,With Balance,14078,False,24,,4.0
+24-8148,Human Resource Management (BSBA‑HRM),2005-09-23,Filipino,Single,Male,Bacoor,Paid,0,False,18,,4.0
+24-6921,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2000-12-22,Filipino,Single,Female,Imus,Paid,0,False,18,advising,3.0
+24-7297,Information Systems (BS‑IS),2001-09-07,Filipino,Single,Female,Marikina,Paid,0,False,24,,3.0
+24-2456,Business Intelligence & Analytics (BSBA‑BIA),2005-03-09,Filipino,Single,Female,Las Piñas,Paid,0,True,18,,4.0
+24-2144,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2006-09-14,Filipino,Single,Male,Mandaluyong,With Balance,16488,False,24,,2.0
+24-8383,Cybersecurity (BSCSEC),2003-03-07,Filipino,Single,Male,Marikina,With Balance,24441,False,15,,4.0
+24-5802,Business Intelligence & Analytics (BSBA‑BIA),2006-02-09,Filipino,Single,Male,Malabon,With Balance,10311,False,15,,1.0
+24-1685,Business Intelligence & Analytics (BSBA‑BIA),2003-09-26,Filipino,Single,Female,Malabon,Paid,0,False,24,,3.0
+24-6620,Human Resource Management (BSBA‑HRM),2003-06-22,Filipino,Single,Female,Muntinlupa,Paid,0,False,24,,2.0
+24-3275,Business Intelligence & Analytics (BSBA‑BIA),2001-09-09,Chinese,Single,Male,Parañaque,Paid,0,False,24,,3.0
+24-1051,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2005-01-21,Filipino,Single,Female,Imus,Paid,0,False,24,,3.0
+24-6707,Information Systems (BS‑IS),2007-11-28,Filipino,Single,Female,Las Piñas,With Balance,38503,False,15,advising,3.5
+24-9990,Information Systems (BS‑IS),2002-08-04,Filipino,Single,Male,Caloocan,With Balance,32934,False,15,restrictions,4.0
+24-6349,Information Systems (BS‑IS),2004-04-24,Filipino,Single,Male,Imus,Paid,0,False,24,restrictions,3.5
+24-4666,Cybersecurity (BSCSEC),2001-11-11,Filipino,Single,Female,Bacoor,Paid,0,False,24,,4.0
+24-2895,Human Resource Management (BSBA‑HRM),2001-02-03,Filipino,Single,Male,Taguig,Paid,0,False,21,,3.0
+24-1027,Human Resource Management (BSBA‑HRM),2000-10-18,Filipino,Single,Female,Muntinlupa,With Balance,36101,False,18,,3.0
+24-4639,Business Intelligence & Analytics (BSBA‑BIA),2006-01-18,Filipino,Single,Female,San Juan,Paid,0,False,21,restrictions,2.0
+24-1562,Cybersecurity (BSCSEC),2005-05-17,American,Single,Female,Bacoor,Paid,0,False,24,monitoring,4.0
+24-4450,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2003-12-24,Filipino,Single,Male,Malabon,Paid,0,False,18,,3.0
+24-6528,Information Systems (BS‑IS),2007-06-25,Filipino,Single,Female,Las Piñas,Paid,0,False,24,monitoring,3.0
+24-1886,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2004-08-21,Filipino,Single,Female,Las Piñas,Paid,0,False,18,,4.0
+24-2670,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2002-07-14,Filipino,Single,Male,Taguig,Paid,0,False,15,restrictions,3.0
+24-8107,Business Solutions & Applications (BSBA‑BSAA),2006-04-02,Filipino,Single,Female,Cainta,Paid,0,False,24,,1.0
+24-2468,Information Systems (BS‑IS),2006-05-21,Filipino,Single,Male,Taguig,Paid,0,True,24,,2.0
+24-4685,Business Intelligence & Analytics (BSBA‑BIA),2007-05-23,Filipino,Single,Male,Pasay,Paid,0,False,24,,4.0
+24-6328,Business Intelligence & Analytics (BSBA‑BIA),2002-07-27,Filipino,Single,Female,Makati,Paid,0,False,15,,4.0
+24-2922,Business Solutions & Applications (BSBA‑BSAA),2002-01-18,Filipino,Single,Male,Pasig,Paid,0,False,15,,2.0
+24-1573,Business Intelligence & Analytics (BSBA‑BIA),2001-09-10,Filipino,Single,Female,Imus,Paid,0,True,21,restrictions,2.0
+24-5807,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2007-03-19,Filipino,Single,Female,Cainta,Paid,0,False,15,,4.0
+24-1601,Business Solutions & Applications (BSBA‑BSAA),2002-05-28,Filipino,Single,Male,Rodriguez,Paid,0,False,24,monitoring,3.5
+24-3675,Information Systems (BS‑IS),2007-02-09,Filipino,Single,Male,San Mateo,Paid,0,False,21,,3.0
+24-4156,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2005-10-22,Filipino,Single,Male,Valenzuela,Paid,0,False,24,,1.0
+24-5055,Business Intelligence & Analytics (BSBA‑BIA),2004-02-18,Filipino,Single,Male,Muntinlupa,Paid,0,False,21,,4.0
+24-4698,Human Resource Management (BSBA‑HRM),2000-02-13,Japanese,Single,Male,Taguig,With Balance,20045,False,24,monitoring,3.0
+24-5620,Cybersecurity (BSCSEC),2004-10-04,Filipino,Single,Female,Mandaluyong,With Balance,35845,False,24,,4.0
+24-1155,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2002-11-05,Filipino,Single,Female,Quezon City,Paid,0,False,21,,4.0
+24-7852,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2007-03-15,Vietnamese,Single,Female,Marikina,Paid,0,False,18,,2.0
+24-6007,Information Systems (BS‑IS),2005-02-21,Filipino,Single,Male,Mandaluyong,Paid,0,False,21,,3.5
+24-1175,Information Systems (BS‑IS),2002-08-16,Filipino,Married,Male,Pasay,Paid,0,True,18,,3.0
+24-7962,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2005-04-24,Filipino,Single,Male,Cainta,Paid,0,False,18,,3.5
+24-3184,Cybersecurity (BSCSEC),2005-01-14,Filipino,Single,Male,Muntinlupa,Paid,0,False,15,,3.5
+24-5337,Business Solutions & Applications (BSBA‑BSAA),2000-12-21,Filipino,Single,Female,Bacoor,With Balance,25173,False,24,advising,3.0
+24-6382,Human Resource Management (BSBA‑HRM),2005-02-01,Filipino,Single,Female,Parañaque,Paid,0,True,24,,4.0
+24-9426,Business Solutions & Applications (BSBA‑BSAA),2006-02-16,Filipino,Single,Female,San Juan,Paid,0,False,21,,4.0
+24-5415,Business Intelligence & Analytics (BSBA‑BIA),2007-11-27,Filipino,Single,Female,Manila,With Balance,16503,False,15,,4.0
+24-7464,Information Systems (BS‑IS),2005-01-06,Filipino,Single,Female,Taguig,Paid,0,False,18,,3.0
+24-7551,Cybersecurity (BSCSEC),2006-03-04,Chinese,Single,Male,Pasig,Paid,0,False,18,monitoring,3.5
+24-1131,Information Systems (BS‑IS),2007-05-10,Filipino,Single,Male,Cainta,Paid,0,False,18,,4.0
+24-5317,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2003-11-27,Filipino,Single,Male,Antipolo,Paid,0,False,18,,4.0
+24-1628,Human Resource Management (BSBA‑HRM),2003-03-14,Filipino,Single,Male,Pasay,Paid,0,False,18,,3.5
+24-2005,Cybersecurity (BSCSEC),2006-11-02,Filipino,Single,Female,Parañaque,Paid,0,False,15,,4.0
+24-4473,Human Resource Management (BSBA‑HRM),2007-05-20,Filipino,Single,Female,Parañaque,Paid,0,False,15,,3.0
+24-3134,Human Resource Management (BSBA‑HRM),2005-12-26,Filipino,Single,Female,San Juan,Paid,0,False,24,advising,4.0
+24-2971,Business Intelligence & Analytics (BSBA‑BIA),2003-04-23,Filipino,Single,Female,Las Piñas,With Balance,16619,False,18,advising,3.5
+24-5137,Cybersecurity (BSCSEC),2005-06-15,Filipino,Single,Female,Makati,Paid,0,False,15,,3.5
+24-3112,Human Resource Management (BSBA‑HRM),2000-10-02,Filipino,Single,Female,Malabon,With Balance,12457,False,18,,3.0
+24-7393,Information Systems (BS‑IS),2004-04-06,Filipino,Single,Male,Antipolo,With Balance,27205,False,21,,4.0
+24-5399,Cybersecurity (BSCSEC),2001-03-08,Filipino,Single,Male,Bacoor,With Balance,14357,False,21,,4.0
+24-5079,Business Solutions & Applications (BSBA‑BSAA),2001-01-21,Filipino,Single,Female,Muntinlupa,Paid,0,True,21,,3.5
+24-5831,Human Resource Management (BSBA‑HRM),2000-11-27,Filipino,Single,Female,Mandaluyong,Paid,0,False,15,,3.0
+24-5216,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2003-08-08,Filipino,Single,Female,Pasig,With Balance,24218,False,21,monitoring,4.0
+24-3973,Information Systems (BS‑IS),2002-03-07,Filipino,Single,Male,Bacoor,Paid,0,False,18,,3.0
+24-4077,Business Intelligence & Analytics (BSBA‑BIA),2002-02-14,Filipino,Single,Female,Taguig,Paid,0,False,15,,3.5
+24-1339,Business Intelligence & Analytics (BSBA‑BIA),2000-11-02,Filipino,Single,Female,Pasig,Paid,0,False,15,,4.0
+24-6544,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2001-04-05,Filipino,Single,Female,Mandaluyong,Paid,0,False,18,restrictions,3.5
+24-9906,Business Intelligence & Analytics (BSBA‑BIA),2000-01-04,Filipino,Single,Female,Pasig,Paid,0,True,18,monitoring,3.5
+24-6788,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2004-04-22,Filipino,Single,Male,Malabon,Paid,0,False,15,,3.5
+24-2249,Cybersecurity (BSCSEC),2005-02-12,Filipino,Single,Male,Cainta,Paid,0,False,21,,3.0
+24-3461,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2004-10-27,Filipino,Single,Female,Malabon,With Balance,36565,False,15,,2.0
+24-3435,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2002-06-05,Filipino,Single,Female,Makati,Paid,0,False,21,monitoring,1.0
+24-3979,Information Systems (BS‑IS),2005-06-16,Filipino,Single,Female,Cainta,Paid,0,False,18,,3.0
+24-9826,Cybersecurity (BSCSEC),2007-09-18,Filipino,Single,Female,Antipolo,Paid,0,False,18,,4.0
+24-1046,Business Solutions & Applications (BSBA‑BSAA),2000-06-18,Filipino,Single,Male,Quezon City,Paid,0,False,18,,4.0
+24-7898,Business Solutions & Applications (BSBA‑BSAA),2003-04-02,Filipino,Single,Male,Pasay,Paid,0,False,24,,3.0
+24-2208,Information Systems (BS‑IS),2002-01-05,Filipino,Single,Male,Manila,With Balance,14905,False,18,,4.0
+24-9641,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2004-08-14,Filipino,Single,Male,Las Piñas,Paid,0,False,15,,4.0
+24-3627,Business Intelligence & Analytics (BSBA‑BIA),2006-07-22,Filipino,Single,Female,Rodriguez,With Balance,23882,False,18,,4.0
+24-7185,Business Solutions & Applications (BSBA‑BSAA),2003-07-20,Filipino,Single,Male,Navotas,Paid,0,False,24,,4.0
+24-7086,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2006-04-09,Filipino,Single,Female,Manila,Paid,0,False,15,restrictions,4.0
+24-6064,Business Solutions & Applications (BSBA‑BSAA),2003-11-02,Filipino,Single,Male,Rodriguez,Paid,0,False,15,,2.0
+24-6843,Human Resource Management (BSBA‑HRM),2006-09-07,Filipino,Single,Female,Pasig,Paid,0,False,24,,3.0
+24-9227,Business Solutions & Applications (BSBA‑BSAA),2000-10-26,Filipino,Single,Male,Las Piñas,Paid,0,False,15,,4.0
+24-4794,Business Solutions & Applications (BSBA‑BSAA),2002-12-06,American,Single,Female,Navotas,Paid,0,False,21,,2.0
+24-1655,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2006-04-07,American,Single,Male,Rodriguez,Paid,0,False,15,monitoring,3.0
+24-2428,Information Systems (BS‑IS),2001-08-11,Filipino,Single,Male,Marikina,Paid,0,False,15,,3.0
+24-5226,Information Systems (BS‑IS),2004-08-21,Filipino,Single,Female,Quezon City,Paid,0,False,24,,2.0
+24-3113,Information Systems (BS‑IS),2005-09-28,Filipino,Single,Male,Imus,Paid,0,False,15,,3.0
+24-5011,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2000-03-28,Filipino,Single,Female,Makati,With Balance,31926,False,15,,3.5
+24-9767,Information Systems (BS‑IS),2001-02-06,Filipino,Single,Female,Valenzuela,Paid,0,False,21,,3.0
+24-4483,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2007-02-09,Filipino,Single,Female,Pasig,Paid,0,False,15,,3.0
+24-2022,Human Resource Management (BSBA‑HRM),2006-08-07,Filipino,Single,Female,Marikina,Paid,0,False,18,monitoring,4.0
+24-8396,Information Systems (BS‑IS),2003-11-09,Filipino,Single,Female,Muntinlupa,Paid,0,False,18,,3.5
+24-8790,Cybersecurity (BSCSEC),2002-12-14,Filipino,Single,Female,Manila,With Balance,16506,False,15,,3.0
+24-3369,Human Resource Management (BSBA‑HRM),2005-01-05,Filipino,Single,Female,Muntinlupa,With Balance,23316,False,21,,4.0
+24-8381,Business Solutions & Applications (BSBA‑BSAA),2007-11-19,Filipino,Single,Male,Valenzuela,With Balance,29691,False,24,,4.0
+24-4131,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2000-06-27,Filipino,Single,Female,Antipolo,Paid,0,False,24,,3.5
+24-7723,Human Resource Management (BSBA‑HRM),2005-09-14,Filipino,Single,Male,Mandaluyong,Paid,0,False,18,,3.5
+24-8167,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2004-12-20,Filipino,Single,Male,Makati,Paid,0,False,15,,3.5
+24-9133,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2001-11-15,Filipino,Single,Female,Valenzuela,With Balance,28074,False,24,monitoring,1.0
+24-6744,Information Systems (BS‑IS),2006-11-23,Filipino,Single,Female,San Juan,Paid,0,False,21,,2.0
+24-7794,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2003-01-14,Filipino,Single,Female,Antipolo,Paid,0,False,21,,3.0
+24-8045,Business Solutions & Applications (BSBA‑BSAA),2006-04-20,Filipino,Single,Female,Pasig,Paid,0,False,18,,3.5
+24-3595,Information Systems (BS‑IS),2003-02-23,Filipino,Single,Female,Bacoor,With Balance,15211,False,21,,4.0
+24-8166,Business Intelligence & Analytics (BSBA‑BIA),2002-01-20,Filipino,Single,Male,Rodriguez,With Balance,14277,False,24,,3.0
+24-4056,Business Solutions & Applications (BSBA‑BSAA),2003-05-07,Filipino,Single,Female,Marikina,Paid,0,False,18,,3.0
+24-2694,Business Intelligence & Analytics (BSBA‑BIA),2007-10-04,Filipino,Single,Male,Makati,Paid,0,True,21,,4.0
+24-2649,Information Systems (BS‑IS),2000-07-03,Filipino,Single,Male,Imus,With Balance,30760,False,24,,4.0
+24-1166,Business Solutions & Applications (BSBA‑BSAA),2000-02-11,American,Single,Male,Mandaluyong,Paid,0,False,15,,4.0
+24-1377,Cybersecurity (BSCSEC),2002-04-28,Filipino,Single,Male,Muntinlupa,Paid,0,False,18,,3.5
+24-2506,Human Resource Management (BSBA‑HRM),2004-08-24,Filipino,Single,Female,Caloocan,Paid,0,False,21,,4.0
+24-6105,Business Solutions & Applications (BSBA‑BSAA),2003-12-16,Filipino,Single,Female,Muntinlupa,Paid,0,False,24,,3.5
+24-2052,Information Systems (BS‑IS),2002-01-17,Filipino,Single,Female,Pasay,Paid,0,True,18,,3.5
+24-4046,Human Resource Management (BSBA‑HRM),2003-02-07,Filipino,Single,Female,Taguig,Paid,0,True,15,,4.0
+24-6268,Business Solutions & Applications (BSBA‑BSAA),2001-07-10,Filipino,Single,Male,San Mateo,Paid,0,False,15,,3.0
+24-8130,Human Resource Management (BSBA‑HRM),2005-04-07,Filipino,Single,Male,Marikina,Paid,0,False,18,,3.0
+24-4873,Cybersecurity (BSCSEC),2000-05-01,Filipino,Single,Male,Navotas,With Balance,23199,False,15,,2.0
+24-1640,Human Resource Management (BSBA‑HRM),2000-02-16,Filipino,Single,Female,Marikina,Paid,0,False,15,,3.5
+24-1771,Information Systems (BS‑IS),2004-12-15,Filipino,Single,Male,Parañaque,Paid,0,False,18,advising,4.0
+24-6289,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2006-04-06,Filipino,Single,Female,San Mateo,With Balance,38443,False,15,,3.0
+24-2815,Business Intelligence & Analytics (BSBA‑BIA),2004-02-09,Filipino,Single,Female,Marikina,With Balance,29118,False,24,monitoring,2.0
+24-7771,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2007-11-04,Filipino,Single,Female,Imus,Paid,0,False,24,,3.5
+24-5853,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2001-06-18,Filipino,Single,Male,Makati,Paid,0,True,24,advising,3.0
+24-8670,Information Systems (BS‑IS),2003-08-04,Filipino,Single,Female,Las Piñas,Paid,0,False,15,,4.0
+24-6957,Information Systems (BS‑IS),2007-10-17,Filipino,Single,Male,Marikina,Paid,0,False,15,advising,3.0
+24-4941,Business Intelligence & Analytics (BSBA‑BIA),2007-03-09,Filipino,Single,Female,Parañaque,With Balance,12754,False,21,,4.0
+24-8059,Cybersecurity (BSCSEC),2005-01-15,Filipino,Single,Female,Valenzuela,Paid,0,False,18,,3.0
+24-9087,Cybersecurity (BSCSEC),2006-02-22,Filipino,Single,Male,San Juan,With Balance,28849,False,21,,3.0
+24-5513,Business Solutions & Applications (BSBA‑BSAA),2006-07-13,Filipino,Single,Female,Malabon,With Balance,21391,False,21,,3.5
+24-1050,Business Intelligence & Analytics (BSBA‑BIA),2002-09-23,Filipino,Single,Male,Mandaluyong,Paid,0,False,18,,3.5
+24-1208,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2007-07-11,Filipino,Married,Male,Mandaluyong,With Balance,29464,False,21,,3.0
+24-9000,Business Solutions & Applications (BSBA‑BSAA),2007-02-02,Filipino,Single,Female,San Juan,Paid,0,False,18,,4.0
+24-8415,Information Systems (BS‑IS),2005-09-09,Filipino,Single,Female,Manila,Paid,0,False,21,,3.0
+24-8935,Business Intelligence & Analytics (BSBA‑BIA),2004-11-17,Filipino,Single,Female,San Juan,Paid,0,False,24,restrictions,3.0
+24-8056,Human Resource Management (BSBA‑HRM),2003-12-03,Filipino,Single,Male,Marikina,Paid,0,False,24,,2.0
+24-3866,Human Resource Management (BSBA‑HRM),2005-06-13,Filipino,Single,Female,Las Piñas,Paid,0,False,21,,4.0
+24-8455,Cybersecurity (BSCSEC),2005-05-04,Korean,Single,Male,Navotas,Paid,0,False,21,,3.0
+24-5974,Information Systems (BS‑IS),2004-02-26,Filipino,Single,Male,Las Piñas,Paid,0,False,24,,3.5
+24-1010,Business Intelligence & Analytics (BSBA‑BIA),2004-03-12,Filipino,Single,Male,Makati,Paid,0,False,18,,2.0
+24-4585,Business Intelligence & Analytics (BSBA‑BIA),2007-06-08,Filipino,Single,Female,Pasay,Paid,0,False,21,,3.0
+24-3839,Cybersecurity (BSCSEC),2006-11-11,Filipino,Single,Male,Marikina,Paid,0,False,21,,3.5
+24-8555,Cybersecurity (BSCSEC),2002-07-26,Filipino,Single,Male,Antipolo,Paid,0,False,21,,3.5
+24-7889,Information Systems (BS‑IS),2007-01-18,Filipino,Single,Male,Pasig,Paid,0,False,18,,3.5
+24-9900,Cybersecurity (BSCSEC),2004-01-25,Filipino,Single,Male,Navotas,With Balance,25080,False,15,monitoring,2.0
+24-2753,Human Resource Management (BSBA‑HRM),2001-05-19,Filipino,Single,Male,Taguig,Paid,0,False,15,,3.0
+24-9115,Business Solutions & Applications (BSBA‑BSAA),2003-11-21,Filipino,Single,Female,Manila,Paid,0,False,18,advising,4.0
+24-2983,Cybersecurity (BSCSEC),2001-04-07,Filipino,Single,Female,Pasay,Paid,0,True,15,,3.5
+24-4015,Business Solutions & Applications (BSBA‑BSAA),2004-10-22,Filipino,Single,Male,Valenzuela,Paid,0,False,18,,3.0
+24-3797,Cybersecurity (BSCSEC),2003-08-16,Filipino,Single,Female,Parañaque,Paid,0,False,15,,2.0
+24-3427,Business Intelligence & Analytics (BSBA‑BIA),2004-08-04,Filipino,Single,Female,Quezon City,With Balance,30312,False,24,monitoring,1.0
+24-8666,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2007-05-01,Vietnamese,Single,Male,Parañaque,Paid,0,False,15,,4.0
+24-6558,Information Systems (BS‑IS),2002-05-26,Filipino,Single,Female,Makati,Paid,0,False,24,,3.0
+24-3955,Cybersecurity (BSCSEC),2004-03-23,Filipino,Single,Female,Rodriguez,Paid,0,False,15,restrictions,4.0
+24-2581,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2001-08-22,Filipino,Single,Male,Taguig,Paid,0,False,24,,3.5
+24-2054,Business Intelligence & Analytics (BSBA‑BIA),2004-02-02,Filipino,Single,Female,Cainta,Paid,0,False,18,,3.0
+24-7187,Business Solutions & Applications (BSBA‑BSAA),2003-04-09,Filipino,Single,Male,Caloocan,Paid,0,False,18,advising,3.0
+24-2576,Business Solutions & Applications (BSBA‑BSAA),2000-03-01,Filipino,Single,Male,Muntinlupa,With Balance,39851,False,24,,4.0
+24-8761,Cybersecurity (BSCSEC),2005-06-20,Filipino,Single,Male,Navotas,Paid,0,False,15,,4.0
+24-9474,Human Resource Management (BSBA‑HRM),2001-02-16,Filipino,Single,Female,Manila,With Balance,37136,False,21,,3.5
+24-3586,Human Resource Management (BSBA‑HRM),2001-09-19,Filipino,Single,Female,Pasay,Paid,0,False,15,,2.0
+24-5309,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2000-01-11,Filipino,Single,Male,Pasig,With Balance,20800,False,15,,4.0
+24-1579,Human Resource Management (BSBA‑HRM),2001-07-20,Filipino,Single,Female,Pasig,Paid,0,False,15,,4.0
+24-6738,Information Systems (BS‑IS),2007-05-26,Filipino,Married,Male,Quezon City,Paid,0,True,18,,2.0
+24-1296,Cybersecurity (BSCSEC),2007-01-13,Filipino,Single,Female,Valenzuela,Paid,0,False,15,,1.0
+24-7024,Human Resource Management (BSBA‑HRM),2003-06-14,Filipino,Single,Male,Rodriguez,Paid,0,True,24,,2.0
+24-9785,Cybersecurity (BSCSEC),2000-01-28,Filipino,Single,Male,Quezon City,Paid,0,False,15,,3.0
+24-5001,Human Resource Management (BSBA‑HRM),2002-10-13,Filipino,Single,Male,Makati,Paid,0,False,24,,2.0
+24-4609,Information Systems (BS‑IS),2004-06-25,Filipino,Single,Male,Antipolo,Paid,0,False,15,monitoring,3.0
+24-8966,Human Resource Management (BSBA‑HRM),2001-04-05,Filipino,Single,Female,San Mateo,Paid,0,False,18,advising,3.0
+24-8434,Business Intelligence & Analytics (BSBA‑BIA),2000-08-27,Filipino,Single,Female,Las Piñas,Paid,0,False,21,,3.5
+24-1308,Information Systems (BS‑IS),2006-08-02,Filipino,Single,Female,San Mateo,Paid,0,True,21,monitoring,2.0
+24-6508,Human Resource Management (BSBA‑HRM),2003-01-11,Filipino,Single,Female,Quezon City,Paid,0,False,21,,2.0
+24-7944,Cybersecurity (BSCSEC),2004-03-13,Filipino,Married,Male,Pasig,Paid,0,False,21,advising,3.0
+24-5846,Human Resource Management (BSBA‑HRM),2006-01-20,Filipino,Single,Female,Bacoor,Paid,0,False,15,,3.0
+24-5333,Business Solutions & Applications (BSBA‑BSAA),2007-08-01,Filipino,Single,Female,Malabon,Paid,0,False,24,advising,3.5
+23-6145,Business Intelligence & Analytics (BSBA‑BIA),2007-03-09,Filipino,Single,Female,Pasig,Paid,0,False,15,,3.0
+23-4018,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2007-10-11,Filipino,Single,Male,Marikina,Paid,0,False,21,,4.0
+23-4845,Human Resource Management (BSBA‑HRM),2001-02-17,Filipino,Single,Male,Caloocan,Paid,0,False,24,monitoring,2.0
+23-3344,Business Intelligence & Analytics (BSBA‑BIA),2005-10-26,Filipino,Married,Female,Malabon,Paid,0,False,15,,4.0
+23-3458,Cybersecurity (BSCSEC),2000-02-20,Filipino,Single,Female,Caloocan,Paid,0,False,18,,1.0
+23-2285,Business Intelligence & Analytics (BSBA‑BIA),2003-10-17,American,Single,Female,San Mateo,With Balance,27293,False,15,,3.0
+23-9525,Information Systems (BS‑IS),2005-05-07,Filipino,Single,Male,Muntinlupa,With Balance,21860,False,18,,3.0
+23-2890,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2003-08-24,Chinese,Single,Male,Parañaque,Paid,0,False,21,,3.0
+23-8355,Information Systems (BS‑IS),2003-10-27,Filipino,Single,Male,Valenzuela,Paid,0,False,21,,3.5
+23-2932,Business Intelligence & Analytics (BSBA‑BIA),2006-07-17,Vietnamese,Single,Male,Mandaluyong,Paid,0,False,15,,3.0
+23-8698,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2001-03-28,Filipino,Single,Male,Makati,With Balance,22717,False,24,,3.5
+23-4955,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2004-02-11,Filipino,Single,Male,Quezon City,Paid,0,True,21,,2.0
+23-8368,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2006-05-25,Filipino,Single,Male,Rodriguez,With Balance,12745,False,18,,3.0
+23-7060,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2007-07-11,Filipino,Single,Female,Taguig,Paid,0,False,15,,2.0
+23-9326,Information Systems (BS‑IS),2004-06-13,Filipino,Single,Male,Quezon City,With Balance,33952,False,18,,3.5
+23-6150,Business Intelligence & Analytics (BSBA‑BIA),2005-05-06,Filipino,Single,Female,San Juan,Paid,0,False,21,,3.0
+23-4795,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2004-03-04,Filipino,Single,Male,Manila,Paid,0,False,18,advising,3.5
+23-5617,Cybersecurity (BSCSEC),2006-12-15,Filipino,Single,Female,Taguig,With Balance,13930,False,24,,3.5
+23-2423,Business Solutions & Applications (BSBA‑BSAA),2004-12-22,Filipino,Single,Male,San Juan,Paid,0,False,21,,3.0
+23-9402,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2001-12-23,Filipino,Single,Female,Taguig,With Balance,20404,False,18,,3.0
+23-1583,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2000-04-05,Filipino,Single,Male,Imus,Paid,0,False,24,,3.0
+23-5630,Business Solutions & Applications (BSBA‑BSAA),2003-11-03,Chinese,Single,Male,Manila,Paid,0,False,18,,4.0
+23-5310,Cybersecurity (BSCSEC),2006-11-19,Filipino,Single,Male,Las Piñas,With Balance,31888,False,24,,3.0
+23-6851,Cybersecurity (BSCSEC),2007-05-04,Filipino,Single,Female,Valenzuela,Paid,0,False,24,monitoring,1.0
+23-2860,Human Resource Management (BSBA‑HRM),2006-12-05,Filipino,Single,Female,Cainta,Paid,0,False,21,,4.0
+23-7701,Business Intelligence & Analytics (BSBA‑BIA),2005-05-22,Filipino,Single,Female,Valenzuela,With Balance,18792,False,24,,3.5
+23-1747,Human Resource Management (BSBA‑HRM),2007-07-08,Filipino,Single,Male,Bacoor,With Balance,30013,False,21,restrictions,4.0
+23-1345,Information Systems (BS‑IS),2001-12-11,Filipino,Single,Male,Bacoor,Paid,0,True,18,,4.0
+23-3572,Cybersecurity (BSCSEC),2006-12-08,Filipino,Single,Female,Muntinlupa,Paid,0,False,18,,4.0
+23-1328,Cybersecurity (BSCSEC),2001-09-13,Filipino,Single,Female,Las Piñas,Paid,0,True,18,restrictions,4.0
+23-7190,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2006-03-27,Filipino,Single,Male,Makati,Paid,0,True,24,restrictions,2.0
+23-3487,Business Intelligence & Analytics (BSBA‑BIA),2006-04-27,Filipino,Single,Female,Valenzuela,Paid,0,False,21,,4.0
+23-8723,Information Systems (BS‑IS),2004-07-03,Filipino,Single,Female,Malabon,With Balance,26600,False,18,,1.0
+23-7449,Human Resource Management (BSBA‑HRM),2001-08-08,Filipino,Single,Male,Navotas,Paid,0,False,21,,2.0
+23-2370,Business Intelligence & Analytics (BSBA‑BIA),2002-04-28,Filipino,Single,Male,Pasig,With Balance,27150,False,18,monitoring,3.5
+23-6102,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2005-03-02,Filipino,Single,Female,Manila,Paid,0,False,24,,3.5
+23-4862,Human Resource Management (BSBA‑HRM),2007-12-16,Filipino,Single,Male,Taguig,Paid,0,False,18,,4.0
+23-2990,Business Solutions & Applications (BSBA‑BSAA),2003-08-28,Japanese,Single,Female,Malabon,With Balance,25964,False,18,,3.0
+23-7543,Business Intelligence & Analytics (BSBA‑BIA),2004-02-14,American,Single,Female,Antipolo,With Balance,28474,False,18,restrictions,3.0
+23-7082,Cybersecurity (BSCSEC),2004-08-15,Filipino,Single,Male,Mandaluyong,With Balance,10321,False,21,,4.0
+23-2098,Business Intelligence & Analytics (BSBA‑BIA),2004-12-07,Filipino,Single,Female,Muntinlupa,Paid,0,True,24,,4.0
+23-4703,Human Resource Management (BSBA‑HRM),2000-04-09,Filipino,Single,Female,Rodriguez,Paid,0,False,24,,3.0
+23-4319,Business Intelligence & Analytics (BSBA‑BIA),2002-02-24,Filipino,Single,Male,Pasig,Paid,0,False,24,,3.0
+23-5542,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2007-04-06,Filipino,Single,Male,Makati,Paid,0,False,18,,2.0
+23-6297,Business Intelligence & Analytics (BSBA‑BIA),2000-03-17,Filipino,Single,Female,Muntinlupa,With Balance,17889,False,24,,3.5
+23-8773,Human Resource Management (BSBA‑HRM),2004-09-11,Filipino,Single,Male,Mandaluyong,With Balance,33309,False,18,,3.0
+23-9029,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2004-11-04,Filipino,Single,Female,Mandaluyong,Paid,0,True,21,,3.0
+23-6668,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2006-04-20,Filipino,Married,Male,Pasay,With Balance,10349,False,18,,3.0
+23-1091,Cybersecurity (BSCSEC),2004-06-04,Filipino,Single,Male,Cainta,Paid,0,False,24,,1.0
+23-5145,Human Resource Management (BSBA‑HRM),2000-10-27,Filipino,Single,Female,Cainta,Paid,0,False,24,,3.0
+23-9938,Business Intelligence & Analytics (BSBA‑BIA),2000-06-01,Filipino,Single,Male,Pasig,Paid,0,True,15,restrictions,3.0
+23-6148,Business Intelligence & Analytics (BSBA‑BIA),2004-04-21,Filipino,Single,Female,Mandaluyong,Paid,0,False,21,,2.0
+23-7605,Information Systems (BS‑IS),2000-02-07,Filipino,Single,Female,Makati,Paid,0,False,18,,3.5
+23-1052,Human Resource Management (BSBA‑HRM),2004-09-12,Filipino,Single,Male,Rodriguez,Paid,0,False,15,,4.0
+23-6201,Cybersecurity (BSCSEC),2000-03-26,Filipino,Single,Female,Makati,With Balance,20085,False,18,,3.0
+23-6087,Business Intelligence & Analytics (BSBA‑BIA),2006-12-10,Filipino,Single,Female,Valenzuela,Paid,0,False,18,,3.5
+23-8202,Human Resource Management (BSBA‑HRM),2001-08-12,Filipino,Single,Female,Bacoor,Paid,0,False,24,,3.0
+23-8108,Human Resource Management (BSBA‑HRM),2004-04-11,Filipino,Single,Female,Makati,Paid,0,False,18,,4.0
+23-2889,Cybersecurity (BSCSEC),2002-08-05,Filipino,Single,Female,Imus,Paid,0,False,15,,2.0
+23-1129,Business Solutions & Applications (BSBA‑BSAA),2006-08-11,Filipino,Single,Male,Parañaque,Paid,0,False,18,,3.5
+23-8478,Cybersecurity (BSCSEC),2006-12-13,Filipino,Single,Female,Cainta,Paid,0,False,21,advising,3.0
+23-9306,Business Intelligence & Analytics (BSBA‑BIA),2006-07-25,Filipino,Single,Male,Mandaluyong,With Balance,39051,False,18,,3.0
+23-3286,Business Solutions & Applications (BSBA‑BSAA),2005-01-03,Filipino,Single,Female,Navotas,Paid,0,False,18,,4.0
+23-6038,Business Intelligence & Analytics (BSBA‑BIA),2002-04-28,Filipino,Single,Male,Pasig,With Balance,22263,False,15,,3.5
+23-8713,Cybersecurity (BSCSEC),2006-12-07,Filipino,Single,Female,San Juan,Paid,0,False,18,,2.0
+23-7551,Human Resource Management (BSBA‑HRM),2004-11-24,Filipino,Single,Male,Parañaque,With Balance,29216,False,15,,3.0
+23-4852,Human Resource Management (BSBA‑HRM),2005-06-17,Filipino,Single,Female,Makati,Paid,0,False,18,monitoring,3.5
+23-6563,Information Systems (BS‑IS),2002-07-05,Filipino,Single,Female,Quezon City,With Balance,15882,False,18,,3.0
+23-2743,Information Systems (BS‑IS),2001-06-22,Filipino,Single,Female,Manila,Paid,0,False,24,,4.0
+23-7581,Information Systems (BS‑IS),2000-05-14,Filipino,Single,Female,Antipolo,Paid,0,False,21,,1.0
+23-2829,Business Solutions & Applications (BSBA‑BSAA),2006-09-25,Filipino,Single,Male,Manila,With Balance,29338,False,21,,2.0
+23-8454,Information Systems (BS‑IS),2000-08-10,Filipino,Single,Female,Parañaque,Paid,0,True,21,,3.5
+23-5852,Business Intelligence & Analytics (BSBA‑BIA),2004-03-10,Filipino,Single,Female,Las Piñas,Paid,0,False,21,,3.0
+23-7491,Business Solutions & Applications (BSBA‑BSAA),2002-02-18,Filipino,Single,Female,Valenzuela,Paid,0,False,24,,4.0
+23-9577,Cybersecurity (BSCSEC),2007-01-03,Filipino,Single,Male,Pasay,With Balance,21068,False,21,,4.0
+23-5208,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2001-07-04,Filipino,Single,Female,Cainta,With Balance,17987,False,15,,3.5
+23-8158,Human Resource Management (BSBA‑HRM),2002-05-17,Filipino,Single,Male,Imus,Paid,0,False,18,monitoring,3.0
+23-5501,Human Resource Management (BSBA‑HRM),2007-10-26,Japanese,Single,Male,San Juan,Paid,0,True,21,,3.0
+23-8547,Cybersecurity (BSCSEC),2006-11-20,Filipino,Single,Male,Muntinlupa,Paid,0,False,24,,2.0
+23-9175,Business Solutions & Applications (BSBA‑BSAA),2002-11-13,Filipino,Single,Male,Bacoor,With Balance,12722,False,18,,3.0
+23-5981,Human Resource Management (BSBA‑HRM),2005-08-22,Filipino,Single,Male,Cainta,Paid,0,False,15,,3.5
+23-9040,Business Solutions & Applications (BSBA‑BSAA),2006-09-05,Filipino,Single,Male,Taguig,Paid,0,False,15,,4.0
+23-3606,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2006-09-14,Filipino,Single,Female,Muntinlupa,Paid,0,False,21,,3.0
+23-4688,Information Systems (BS‑IS),2007-08-10,Filipino,Single,Male,Pasay,Paid,0,False,21,,3.0
+23-2610,Information Systems (BS‑IS),2006-07-14,Filipino,Single,Male,Pasig,Paid,0,False,15,,3.0
+23-1374,Human Resource Management (BSBA‑HRM),2003-03-19,Filipino,Single,Female,Manila,With Balance,31434,False,24,,2.0
+23-3644,Information Systems (BS‑IS),2005-12-28,Filipino,Single,Male,Muntinlupa,Paid,0,False,15,,3.5
+23-5014,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2007-04-26,Filipino,Single,Male,Cainta,With Balance,39782,False,18,,3.0
+23-2144,Business Intelligence & Analytics (BSBA‑BIA),2000-11-22,Filipino,Single,Female,Pasay,Paid,0,True,24,,2.0
+23-9803,Business Intelligence & Analytics (BSBA‑BIA),2000-08-16,Filipino,Single,Female,Quezon City,With Balance,26762,False,24,,4.0
+23-3391,Human Resource Management (BSBA‑HRM),2001-12-06,Filipino,Single,Male,San Juan,Paid,0,False,15,,3.0
+23-8507,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2007-04-25,Filipino,Single,Female,Muntinlupa,Paid,0,False,21,,3.0
+23-3425,Cybersecurity (BSCSEC),2004-01-08,Filipino,Single,Female,Las Piñas,Paid,0,False,21,,3.5
+23-5831,Business Solutions & Applications (BSBA‑BSAA),2002-03-20,Filipino,Single,Male,Manila,Paid,0,False,18,,3.5
+23-9332,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2006-08-20,Filipino,Married,Male,Rodriguez,Paid,0,False,21,,2.0
+23-3770,Cybersecurity (BSCSEC),2007-03-16,Filipino,Single,Male,Muntinlupa,Paid,0,False,18,,3.0
+23-2959,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2003-06-16,Filipino,Single,Male,Antipolo,With Balance,21913,False,15,,4.0
+23-6398,Cybersecurity (BSCSEC),2001-05-18,Korean,Single,Male,Quezon City,Paid,0,False,18,,3.0
+23-5015,Business Solutions & Applications (BSBA‑BSAA),2007-03-02,Japanese,Single,Female,Makati,With Balance,12086,False,18,,4.0
+23-4728,Business Solutions & Applications (BSBA‑BSAA),2007-08-04,Filipino,Single,Female,Bacoor,Paid,0,True,24,advising,3.5
+23-2636,Cybersecurity (BSCSEC),2003-10-16,Filipino,Single,Female,Taguig,Paid,0,False,18,,3.0
+23-8475,Business Intelligence & Analytics (BSBA‑BIA),2004-07-20,Filipino,Single,Female,Antipolo,Paid,0,False,21,,3.0
+23-6589,Human Resource Management (BSBA‑HRM),2004-11-15,Filipino,Single,Male,Malabon,Paid,0,True,24,,4.0
+23-8078,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2004-02-28,Filipino,Single,Male,Caloocan,With Balance,16986,False,21,,3.5
+23-9690,Information Systems (BS‑IS),2001-11-10,Filipino,Single,Male,Muntinlupa,With Balance,35749,False,18,,3.0
+23-3574,Human Resource Management (BSBA‑HRM),2007-11-20,Filipino,Single,Female,San Juan,Paid,0,False,21,,3.5
+23-6798,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2005-08-10,Filipino,Single,Female,Manila,Paid,0,False,24,,2.0
+23-8485,Human Resource Management (BSBA‑HRM),2000-12-07,Filipino,Single,Female,Parañaque,Paid,0,True,24,,3.5
+23-4267,Business Solutions & Applications (BSBA‑BSAA),2007-05-04,Filipino,Single,Female,Rodriguez,With Balance,11507,False,24,,2.0
+23-8979,Business Solutions & Applications (BSBA‑BSAA),2004-10-19,Filipino,Single,Female,Marikina,Paid,0,False,21,advising,2.0
+23-2212,Human Resource Management (BSBA‑HRM),2006-03-28,Filipino,Single,Male,San Mateo,Paid,0,True,18,,3.0
+23-5271,Cybersecurity (BSCSEC),2004-12-01,Filipino,Single,Female,Parañaque,Paid,0,False,18,,3.5
+23-8549,Human Resource Management (BSBA‑HRM),2005-04-22,Japanese,Single,Male,Pasig,Paid,0,False,24,,3.0
+23-9657,Business Intelligence & Analytics (BSBA‑BIA),2005-01-19,Filipino,Single,Female,San Mateo,Paid,0,False,15,,3.0
+23-2840,Cybersecurity (BSCSEC),2002-09-28,Filipino,Single,Female,Cainta,Paid,0,False,15,,3.5
+23-5536,Information Systems (BS‑IS),2007-12-05,Filipino,Single,Female,Navotas,Paid,0,False,24,,3.5
+23-5813,Business Intelligence & Analytics (BSBA‑BIA),2006-01-01,Filipino,Single,Female,San Juan,With Balance,27444,False,24,,4.0
+23-6810,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2002-04-25,Filipino,Single,Male,Manila,With Balance,11292,False,18,,1.0
+23-6365,Human Resource Management (BSBA‑HRM),2003-11-07,Filipino,Single,Female,San Juan,Paid,0,False,21,monitoring,4.0
+23-7145,Business Intelligence & Analytics (BSBA‑BIA),2007-12-28,Filipino,Single,Female,Navotas,Paid,0,False,24,,4.0
+23-3868,Cybersecurity (BSCSEC),2001-03-25,Filipino,Single,Female,Muntinlupa,Paid,0,False,15,,3.5
+23-5182,Cybersecurity (BSCSEC),2001-08-01,Filipino,Single,Female,Taguig,With Balance,37411,False,15,,2.0
+23-5926,Business Solutions & Applications (BSBA‑BSAA),2001-11-21,Filipino,Single,Male,Marikina,With Balance,11486,False,18,,4.0
+23-1151,Business Solutions & Applications (BSBA‑BSAA),2002-03-23,Filipino,Single,Male,Imus,Paid,0,False,18,,4.0
+23-9496,Business Solutions & Applications (BSBA‑BSAA),2002-06-04,Filipino,Single,Male,Las Piñas,Paid,0,False,21,,4.0
+23-1423,Human Resource Management (BSBA‑HRM),2000-08-02,Filipino,Single,Female,Quezon City,With Balance,33675,False,18,,4.0
+23-4648,Business Intelligence & Analytics (BSBA‑BIA),2006-02-04,Korean,Single,Female,San Mateo,With Balance,36523,False,15,,3.5
+23-3100,Human Resource Management (BSBA‑HRM),2005-10-22,Filipino,Single,Male,Pasig,Paid,0,False,18,,4.0
+23-2553,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2006-05-20,Filipino,Single,Male,Imus,With Balance,25143,False,21,,4.0
+23-7914,Human Resource Management (BSBA‑HRM),2002-10-24,Filipino,Single,Female,Bacoor,Paid,0,True,18,,4.0
+23-1558,Business Solutions & Applications (BSBA‑BSAA),2002-07-11,Filipino,Single,Female,Caloocan,With Balance,28913,False,24,,4.0
+23-5305,Cybersecurity (BSCSEC),2007-02-24,Filipino,Single,Female,Muntinlupa,Paid,0,False,21,,3.5
+23-9993,Information Systems (BS‑IS),2001-11-28,Filipino,Single,Male,Parañaque,Paid,0,False,18,monitoring,2.0
+23-2970,Cybersecurity (BSCSEC),2004-03-28,Filipino,Single,Male,Antipolo,With Balance,39020,False,18,restrictions,4.0
+23-1273,Business Solutions & Applications (BSBA‑BSAA),2005-09-20,Filipino,Single,Male,San Mateo,Paid,0,False,18,,4.0
+23-3713,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2003-12-05,Filipino,Single,Female,Caloocan,With Balance,23135,False,21,,3.0
+23-7901,Information Systems (BS‑IS),2007-06-05,Filipino,Single,Male,Marikina,Paid,0,False,18,,3.0
+23-2094,Business Intelligence & Analytics (BSBA‑BIA),2006-03-05,Filipino,Single,Male,Pasay,Paid,0,False,24,,4.0
+23-6741,Business Intelligence & Analytics (BSBA‑BIA),2003-05-05,Filipino,Single,Male,Caloocan,Paid,0,False,21,advising,3.0
+23-9589,Business Intelligence & Analytics (BSBA‑BIA),2007-04-22,Filipino,Single,Female,Pasig,Paid,0,True,21,,2.0
+23-1671,Information Systems (BS‑IS),2004-02-21,Filipino,Single,Female,Las Piñas,Paid,0,False,21,,2.0
+23-9102,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2006-07-02,Filipino,Single,Female,Marikina,Paid,0,False,21,,2.0
+23-6843,Business Intelligence & Analytics (BSBA‑BIA),2000-02-23,Filipino,Single,Female,San Juan,Paid,0,False,15,,2.0
+23-8993,Cybersecurity (BSCSEC),2006-10-17,Filipino,Single,Male,Cainta,With Balance,31059,False,15,,4.0
+23-4909,Human Resource Management (BSBA‑HRM),2006-07-23,Filipino,Single,Female,Navotas,Paid,0,False,24,,3.0
+23-8074,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2000-04-19,Filipino,Single,Female,Taguig,Paid,0,False,15,,2.0
+23-5153,Human Resource Management (BSBA‑HRM),2005-06-08,Filipino,Single,Female,Navotas,Paid,0,False,18,,3.0
+23-9966,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2005-12-13,Filipino,Single,Male,Malabon,Paid,0,False,18,,3.5
+23-2481,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2006-06-20,Filipino,Single,Female,Caloocan,With Balance,21488,False,21,,2.0
+23-3608,Business Solutions & Applications (BSBA‑BSAA),2005-01-04,Filipino,Single,Female,San Mateo,Paid,0,False,15,,4.0
+23-7629,Human Resource Management (BSBA‑HRM),2002-12-11,Filipino,Single,Female,Taguig,With Balance,38719,False,21,,1.0
+23-6305,Business Solutions & Applications (BSBA‑BSAA),2007-01-08,Filipino,Single,Female,Manila,With Balance,17175,False,18,,3.5
+23-4538,Business Solutions & Applications (BSBA‑BSAA),2000-05-08,Korean,Single,Female,Navotas,Paid,0,False,18,,2.0
+23-7547,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2006-12-09,Filipino,Married,Female,Valenzuela,With Balance,17690,False,21,,4.0
+23-3203,Human Resource Management (BSBA‑HRM),2003-09-19,Filipino,Married,Female,San Mateo,With Balance,29794,False,18,,3.0
+23-4669,Information Systems (BS‑IS),2004-10-27,Filipino,Single,Female,Rodriguez,With Balance,15614,False,15,,3.0
+23-1942,Human Resource Management (BSBA‑HRM),2007-12-05,Filipino,Single,Female,Rodriguez,With Balance,10903,False,24,,3.0
+23-3184,Information Systems (BS‑IS),2003-11-15,Filipino,Single,Female,Muntinlupa,With Balance,26644,False,24,restrictions,1.0
+23-6152,Business Intelligence & Analytics (BSBA‑BIA),2000-12-25,Filipino,Single,Male,Cainta,Paid,0,True,24,,3.0
+23-5076,Cybersecurity (BSCSEC),2002-03-01,Filipino,Single,Male,Muntinlupa,Paid,0,True,24,,2.0
+23-7347,Information Systems (BS‑IS),2006-12-16,Filipino,Single,Male,Las Piñas,With Balance,38805,False,21,,4.0
+23-7576,Business Solutions & Applications (BSBA‑BSAA),2003-06-21,Filipino,Single,Male,Antipolo,With Balance,11995,False,15,,4.0
+23-1028,Cybersecurity (BSCSEC),2000-01-11,Filipino,Single,Female,Makati,Paid,0,False,24,,4.0
+23-6656,Business Intelligence & Analytics (BSBA‑BIA),2002-10-12,Filipino,Single,Male,Antipolo,With Balance,10994,False,15,,2.0
+23-6106,Human Resource Management (BSBA‑HRM),2001-06-22,Filipino,Single,Male,Malabon,Paid,0,False,21,,2.0
+23-9978,Information Systems (BS‑IS),2007-02-22,Filipino,Single,Female,Pasig,With Balance,16171,False,24,advising,2.0
+23-8871,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2001-09-03,Filipino,Single,Female,San Mateo,Paid,0,False,18,,4.0
+23-7984,Information Systems (BS‑IS),2006-07-03,Filipino,Single,Female,San Mateo,Paid,0,False,24,,3.0
+23-1903,Cybersecurity (BSCSEC),2000-04-03,Filipino,Single,Male,Bacoor,Paid,0,False,15,monitoring,3.5
+23-6763,Cybersecurity (BSCSEC),2000-11-28,Filipino,Single,Male,Antipolo,Paid,0,False,18,advising,2.0
+23-6247,Business Intelligence & Analytics (BSBA‑BIA),2003-08-07,Filipino,Single,Male,Pasay,Paid,0,False,21,advising,3.0
+23-6419,Business Solutions & Applications (BSBA‑BSAA),2006-04-12,Filipino,Single,Male,Pasig,Paid,0,False,21,,3.5
+23-6074,Business Solutions & Applications (BSBA‑BSAA),2004-07-23,Filipino,Single,Female,Marikina,Paid,0,False,24,,4.0
+23-7479,Business Intelligence & Analytics (BSBA‑BIA),2007-03-22,Filipino,Single,Male,Taguig,With Balance,12179,False,18,,4.0
+23-5202,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2006-05-18,Filipino,Single,Female,Taguig,Paid,0,False,18,,3.0
+23-9158,Business Solutions & Applications (BSBA‑BSAA),2002-09-02,Filipino,Single,Male,Quezon City,Paid,0,False,15,,3.0
+23-8177,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2002-08-20,Filipino,Single,Male,Caloocan,Paid,0,False,15,,3.5
+23-5109,Business Solutions & Applications (BSBA‑BSAA),2005-08-07,Filipino,Single,Female,Pasig,Paid,0,False,18,,4.0
+23-8190,Business Intelligence & Analytics (BSBA‑BIA),2007-02-27,Filipino,Single,Male,Pasig,Paid,0,False,15,,3.5
+23-9753,Business Intelligence & Analytics (BSBA‑BIA),2002-12-11,Filipino,Single,Male,Imus,Paid,0,False,15,,3.0
+23-2960,Business Solutions & Applications (BSBA‑BSAA),2000-10-18,Filipino,Single,Female,Rodriguez,Paid,0,False,24,,3.0
+23-9037,Cybersecurity (BSCSEC),2004-06-21,Filipino,Single,Male,Navotas,Paid,0,False,18,,3.0
+23-7364,Human Resource Management (BSBA‑HRM),2002-06-24,Filipino,Single,Male,Quezon City,With Balance,27743,False,18,,4.0
+23-6782,Business Solutions & Applications (BSBA‑BSAA),2006-07-14,Filipino,Single,Female,Navotas,Paid,0,False,24,restrictions,4.0
+23-4554,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2003-10-07,Filipino,Single,Female,Navotas,With Balance,23376,False,21,,4.0
+23-3315,Information Systems (BS‑IS),2001-09-21,Filipino,Single,Female,Quezon City,Paid,0,False,18,,2.0
+23-3954,Information Systems (BS‑IS),2000-12-07,Filipino,Single,Female,Imus,Paid,0,False,24,,2.0
+23-3468,Information Systems (BS‑IS),2005-08-08,Filipino,Single,Female,Muntinlupa,With Balance,27386,False,15,,3.0
+23-2404,Business Intelligence & Analytics (BSBA‑BIA),2000-01-11,Filipino,Single,Female,Caloocan,With Balance,20078,False,15,,2.0
+23-8317,Information Systems (BS‑IS),2005-12-06,Filipino,Single,Male,Pasig,Paid,0,False,24,,3.0
+23-8693,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2004-12-28,Filipino,Married,Male,Navotas,Paid,0,True,15,monitoring,3.5
+23-8813,Business Solutions & Applications (BSBA‑BSAA),2000-10-23,Vietnamese,Single,Female,Rodriguez,Paid,0,False,15,,2.0
+23-6633,Human Resource Management (BSBA‑HRM),2001-06-03,Filipino,Single,Female,Pasig,With Balance,31918,False,18,,3.5
+23-2361,Human Resource Management (BSBA‑HRM),2007-01-20,Filipino,Single,Male,Parañaque,Paid,0,False,21,,2.0
+23-1384,Information Systems (BS‑IS),2005-03-02,Filipino,Single,Female,Navotas,Paid,0,False,21,,3.0
+23-8505,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2001-06-18,Filipino,Single,Male,Rodriguez,Paid,0,True,24,,3.5
+23-7363,Business Intelligence & Analytics (BSBA‑BIA),2004-12-13,Filipino,Single,Female,Valenzuela,Paid,0,False,21,,3.0
+23-9008,Human Resource Management (BSBA‑HRM),2004-02-15,Filipino,Single,Female,Antipolo,Paid,0,False,18,,4.0
+23-2219,Business Solutions & Applications (BSBA‑BSAA),2005-02-05,Filipino,Single,Male,Makati,Paid,0,True,15,,3.5
+23-2153,Business Solutions & Applications (BSBA‑BSAA),2007-11-28,Filipino,Single,Male,Quezon City,Paid,0,False,15,,3.0
+23-2500,Business Intelligence & Analytics (BSBA‑BIA),2006-11-08,Filipino,Single,Female,Muntinlupa,Paid,0,False,18,,3.5
+23-4048,Information Systems (BS‑IS),2004-12-22,Filipino,Single,Female,Mandaluyong,Paid,0,False,18,,2.0
+23-4102,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2001-12-25,Filipino,Single,Female,San Juan,Paid,0,False,21,,3.0
+23-5676,Business Solutions & Applications (BSBA‑BSAA),2006-05-27,Filipino,Single,Male,Bacoor,Paid,0,False,21,,4.0
+23-2028,Information Systems (BS‑IS),2005-12-02,Filipino,Single,Male,Imus,With Balance,10393,False,15,,3.0
+23-6922,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2001-10-09,Filipino,Single,Female,Malabon,Paid,0,False,24,,1.0
+23-4117,Business Solutions & Applications (BSBA‑BSAA),2002-01-23,Filipino,Single,Female,Muntinlupa,With Balance,23213,False,24,,3.5
+23-3501,Business Solutions & Applications (BSBA‑BSAA),2006-07-01,Filipino,Single,Female,Bacoor,Paid,0,False,24,,3.0
+23-3830,Business Solutions & Applications (BSBA‑BSAA),2002-04-04,Filipino,Single,Female,Muntinlupa,Paid,0,False,18,,1.0
+23-5549,Business Solutions & Applications (BSBA‑BSAA),2003-08-20,Filipino,Single,Male,Malabon,Paid,0,False,15,monitoring,3.0
+23-5740,Business Solutions & Applications (BSBA‑BSAA),2003-09-16,Filipino,Single,Male,Las Piñas,Paid,0,False,21,,3.5
+23-2996,Cybersecurity (BSCSEC),2002-09-10,Filipino,Single,Male,Parañaque,Paid,0,False,15,,3.5
+23-4431,Human Resource Management (BSBA‑HRM),2003-06-21,Filipino,Married,Female,San Mateo,With Balance,32882,False,18,,1.0
+23-4750,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2003-04-16,Filipino,Single,Female,Antipolo,Paid,0,False,18,,4.0
+23-9043,Information Systems (BS‑IS),2004-02-15,Filipino,Single,Female,Pasig,With Balance,25523,False,18,,4.0
+23-6835,Cybersecurity (BSCSEC),2007-09-05,Filipino,Single,Female,Muntinlupa,Paid,0,False,18,,3.0
+23-2972,Human Resource Management (BSBA‑HRM),2000-12-07,Filipino,Single,Male,Pasay,With Balance,10357,False,21,,4.0
+23-1414,Business Intelligence & Analytics (BSBA‑BIA),2006-02-12,Filipino,Single,Male,Navotas,Paid,0,False,24,,4.0
+23-5481,Information Systems (BS‑IS),2004-04-23,Filipino,Single,Male,Muntinlupa,Paid,0,False,21,,3.5
+23-6165,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2006-09-01,Filipino,Single,Female,Mandaluyong,With Balance,11131,False,21,,3.0
+23-1645,Cybersecurity (BSCSEC),2000-12-23,Filipino,Single,Male,Pasig,Paid,0,False,18,monitoring,1.0
+23-6540,Business Intelligence & Analytics (BSBA‑BIA),2006-06-25,Filipino,Single,Male,Antipolo,With Balance,32760,False,18,,4.0
+23-4395,Information Systems (BS‑IS),2002-02-25,Filipino,Single,Male,Quezon City,Paid,0,False,15,,3.0
+23-8842,Business Intelligence & Analytics (BSBA‑BIA),2000-04-25,Filipino,Single,Male,Antipolo,Paid,0,False,24,monitoring,3.5
+23-7798,Cybersecurity (BSCSEC),2001-01-07,Filipino,Single,Female,Manila,Paid,0,False,21,,2.0
+23-7507,Business Solutions & Applications (BSBA‑BSAA),2002-09-01,Filipino,Single,Female,Marikina,Paid,0,False,18,,3.0
+23-5198,Human Resource Management (BSBA‑HRM),2003-06-09,Filipino,Single,Female,Manila,With Balance,32015,False,24,,4.0
+23-7348,Business Intelligence & Analytics (BSBA‑BIA),2003-04-25,Filipino,Single,Male,Rodriguez,Paid,0,False,15,,4.0
+23-5134,Business Solutions & Applications (BSBA‑BSAA),2000-05-01,Filipino,Single,Female,Caloocan,With Balance,33591,False,21,,3.5
+23-3707,Information Systems (BS‑IS),2007-09-20,Filipino,Married,Male,Makati,With Balance,37940,False,15,,2.0
+23-5493,Business Intelligence & Analytics (BSBA‑BIA),2004-08-13,Filipino,Single,Male,Quezon City,Paid,0,False,24,,3.5
+23-5587,Information Systems (BS‑IS),2000-05-25,Filipino,Single,Male,Marikina,With Balance,36232,False,18,restrictions,3.0
+23-1497,Information Systems (BS‑IS),2002-01-04,Filipino,Single,Female,Marikina,Paid,0,True,24,restrictions,4.0
+23-2067,Information Systems (BS‑IS),2006-01-02,Filipino,Single,Female,Mandaluyong,Paid,0,False,15,,1.0
+23-5601,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2004-12-16,Filipino,Single,Female,Caloocan,Paid,0,False,15,,4.0
+23-8132,Cybersecurity (BSCSEC),2007-04-23,Filipino,Single,Female,Makati,Paid,0,False,24,,3.5
+23-9859,Business Solutions & Applications (BSBA‑BSAA),2005-12-21,Filipino,Single,Female,Parañaque,Paid,0,False,21,restrictions,3.0
+23-9884,Information Systems (BS‑IS),2005-07-03,Filipino,Single,Female,Parañaque,Paid,0,False,18,,3.5
+23-3376,Cybersecurity (BSCSEC),2005-09-21,Filipino,Single,Male,Caloocan,Paid,0,False,24,,1.0
+23-9912,Business Intelligence & Analytics (BSBA‑BIA),2001-10-01,Filipino,Single,Male,San Juan,With Balance,26029,False,15,,2.0
+23-7116,Cybersecurity (BSCSEC),2006-09-22,Filipino,Single,Female,Valenzuela,With Balance,17399,False,24,,3.0
+23-4085,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2000-09-26,Filipino,Single,Male,Las Piñas,Paid,0,False,18,,4.0
+23-4129,Business Intelligence & Analytics (BSBA‑BIA),2000-01-10,Filipino,Single,Male,Makati,With Balance,23825,False,21,,4.0
+23-5918,Human Resource Management (BSBA‑HRM),2006-06-07,Filipino,Single,Female,Bacoor,Paid,0,False,24,,3.5
+23-6758,Business Intelligence & Analytics (BSBA‑BIA),2004-12-16,Filipino,Single,Male,Valenzuela,Paid,0,False,21,,3.0
+23-1447,Information Systems (BS‑IS),2000-08-25,Filipino,Single,Male,Makati,With Balance,30686,False,15,,3.0
+23-4954,Cybersecurity (BSCSEC),2007-01-11,Filipino,Single,Female,Caloocan,Paid,0,False,18,,3.0
+23-1462,Cybersecurity (BSCSEC),2007-02-17,Filipino,Single,Female,San Mateo,Paid,0,False,15,,3.5
+23-8401,Human Resource Management (BSBA‑HRM),2002-01-10,Filipino,Single,Male,Makati,Paid,0,False,15,,3.0
+23-3893,Information Systems (BS‑IS),2000-05-06,Filipino,Single,Female,San Juan,With Balance,39873,False,15,advising,4.0
+22-1387,Information Systems (BS‑IS),2007-06-26,Filipino,Single,Female,Bacoor,Paid,0,False,15,,3.0
+22-7918,Business Intelligence & Analytics (BSBA‑BIA),2001-02-09,Filipino,Single,Female,Pasay,Paid,0,False,18,advising,4.0
+22-4060,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2003-08-22,American,Single,Female,Malabon,Paid,0,True,18,,4.0
+22-1651,Business Solutions & Applications (BSBA‑BSAA),2003-03-10,Filipino,Single,Male,Parañaque,Paid,0,True,15,restrictions,3.5
+22-9692,Business Intelligence & Analytics (BSBA‑BIA),2004-03-11,Filipino,Single,Male,Caloocan,Paid,0,False,18,monitoring,3.0
+22-9870,Business Intelligence & Analytics (BSBA‑BIA),2002-11-05,Filipino,Single,Male,Malabon,With Balance,28551,False,18,,3.0
+22-6926,Business Solutions & Applications (BSBA‑BSAA),2004-07-02,Filipino,Single,Female,Pasay,Paid,0,True,21,,3.0
+22-4681,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2002-08-20,Filipino,Single,Female,Bacoor,Paid,0,False,18,,3.5
+22-2229,Information Systems (BS‑IS),2000-07-03,Filipino,Single,Male,Bacoor,Paid,0,True,21,,3.5
+22-6594,Human Resource Management (BSBA‑HRM),2005-05-28,Filipino,Single,Female,Rodriguez,With Balance,29831,False,18,,4.0
+22-9022,Human Resource Management (BSBA‑HRM),2001-05-21,Filipino,Single,Female,Cainta,Paid,0,False,21,,3.0
+22-6710,Human Resource Management (BSBA‑HRM),2003-06-17,Filipino,Single,Female,Imus,With Balance,39181,False,18,,3.0
+22-4112,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2005-12-18,Filipino,Single,Female,Rodriguez,Paid,0,False,21,,4.0
+22-6527,Business Solutions & Applications (BSBA‑BSAA),2007-06-08,Filipino,Single,Female,San Mateo,Paid,0,False,15,,1.0
+22-7440,Business Intelligence & Analytics (BSBA‑BIA),2001-04-26,Filipino,Single,Female,San Mateo,Paid,0,False,24,,4.0
+22-8007,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2007-10-04,Filipino,Single,Male,Pasig,Paid,0,False,15,advising,3.5
+22-9986,Cybersecurity (BSCSEC),2004-03-26,Filipino,Single,Female,Caloocan,Paid,0,True,15,monitoring,1.0
+22-5541,Human Resource Management (BSBA‑HRM),2006-04-08,Filipino,Single,Female,San Mateo,Paid,0,False,15,,3.5
+22-4602,Business Solutions & Applications (BSBA‑BSAA),2006-04-18,Filipino,Single,Male,Rodriguez,With Balance,18838,False,24,advising,2.0
+22-4620,Business Solutions & Applications (BSBA‑BSAA),2007-10-06,Filipino,Single,Female,Taguig,Paid,0,True,21,,2.0
+22-7335,Information Systems (BS‑IS),2003-04-04,Filipino,Single,Female,Navotas,With Balance,37872,False,24,monitoring,4.0
+22-9053,Information Systems (BS‑IS),2005-06-01,Filipino,Single,Female,Cainta,Paid,0,False,15,,3.0
+22-7187,Business Solutions & Applications (BSBA‑BSAA),2006-04-07,Filipino,Single,Male,Las Piñas,Paid,0,False,24,,3.0
+22-4998,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2001-08-23,Filipino,Single,Female,Parañaque,Paid,0,False,24,,4.0
+22-5176,Human Resource Management (BSBA‑HRM),2003-05-12,Filipino,Single,Male,Mandaluyong,Paid,0,False,18,,1.0
+22-6973,Business Intelligence & Analytics (BSBA‑BIA),2003-02-23,Filipino,Single,Male,Marikina,Paid,0,True,21,,3.5
+22-8141,Human Resource Management (BSBA‑HRM),2002-04-14,Filipino,Single,Male,Makati,Paid,0,False,18,,3.5
+22-7934,Business Solutions & Applications (BSBA‑BSAA),2003-01-26,Korean,Single,Male,Makati,Paid,0,False,18,,3.0
+22-7044,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2002-03-18,Filipino,Single,Male,Muntinlupa,With Balance,26818,False,15,,2.0
+22-7452,Business Solutions & Applications (BSBA‑BSAA),2002-01-16,Filipino,Single,Female,Rodriguez,Paid,0,False,24,,4.0
+22-5066,Business Solutions & Applications (BSBA‑BSAA),2000-02-13,Filipino,Single,Female,Imus,Paid,0,False,24,,3.5
+22-9514,Human Resource Management (BSBA‑HRM),2006-05-17,Filipino,Single,Female,Pasig,Paid,0,False,21,,4.0
+22-7756,Information Systems (BS‑IS),2006-05-12,Filipino,Single,Male,Caloocan,Paid,0,False,18,,3.0
+22-3291,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2004-07-08,Filipino,Single,Female,Marikina,Paid,0,False,24,,4.0
+22-3136,Information Systems (BS‑IS),2000-04-05,Filipino,Single,Female,Parañaque,Paid,0,True,24,,2.0
+22-8100,Business Intelligence & Analytics (BSBA‑BIA),2004-06-27,Filipino,Single,Female,Makati,Paid,0,False,18,advising,4.0
+22-5417,Business Intelligence & Analytics (BSBA‑BIA),2000-09-07,Filipino,Single,Female,Pasay,Paid,0,False,21,,3.5
+22-1834,Cybersecurity (BSCSEC),2001-08-25,Filipino,Single,Male,Imus,With Balance,28558,False,15,,4.0
+22-7191,Human Resource Management (BSBA‑HRM),2007-12-24,Filipino,Single,Male,Makati,Paid,0,False,18,monitoring,4.0
+22-3178,Business Solutions & Applications (BSBA‑BSAA),2006-10-07,Filipino,Single,Male,Valenzuela,Paid,0,False,18,advising,4.0
+22-1613,Human Resource Management (BSBA‑HRM),2007-02-08,Filipino,Married,Female,Taguig,Paid,0,True,24,,3.5
+22-7096,Information Systems (BS‑IS),2004-10-18,Filipino,Single,Female,Bacoor,Paid,0,False,21,,3.0
+22-5018,Business Solutions & Applications (BSBA‑BSAA),2000-07-16,Filipino,Single,Female,Malabon,With Balance,11680,False,21,,3.5
+22-3424,Cybersecurity (BSCSEC),2003-04-08,Filipino,Single,Male,San Mateo,Paid,0,False,24,,3.5
+22-2329,Business Solutions & Applications (BSBA‑BSAA),2002-10-16,Filipino,Single,Female,Quezon City,With Balance,15047,False,24,,4.0
+22-7068,Business Intelligence & Analytics (BSBA‑BIA),2004-04-16,Filipino,Single,Female,Rodriguez,Paid,0,False,18,,3.0
+22-3701,Human Resource Management (BSBA‑HRM),2002-10-11,Filipino,Single,Male,Makati,Paid,0,True,15,,3.5
+22-2512,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2002-01-01,Filipino,Single,Female,Parañaque,With Balance,32937,False,21,,4.0
+22-3706,Human Resource Management (BSBA‑HRM),2005-02-02,American,Single,Male,Cainta,Paid,0,True,18,,2.0
+22-9034,Business Intelligence & Analytics (BSBA‑BIA),2004-10-10,Filipino,Single,Female,Pasig,Paid,0,True,21,,3.0
+22-9435,Business Intelligence & Analytics (BSBA‑BIA),2007-10-08,Filipino,Single,Female,Imus,Paid,0,False,24,,3.0
+22-5811,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2006-07-26,Filipino,Single,Female,Imus,Paid,0,False,18,,4.0
+22-1962,Cybersecurity (BSCSEC),2001-03-04,American,Single,Male,Las Piñas,Paid,0,False,18,,3.5
+22-3008,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2004-12-07,Filipino,Single,Female,Mandaluyong,Paid,0,False,15,monitoring,3.5
+22-9152,Information Systems (BS‑IS),2006-12-28,Filipino,Single,Female,Valenzuela,With Balance,34625,False,18,advising,1.0
+22-7812,Business Intelligence & Analytics (BSBA‑BIA),2007-06-05,Filipino,Single,Female,Marikina,With Balance,23692,False,15,,3.0
+22-6619,Cybersecurity (BSCSEC),2005-06-01,Filipino,Single,Male,Caloocan,Paid,0,False,21,,2.0
+22-4222,Information Systems (BS‑IS),2000-08-24,Filipino,Single,Female,Quezon City,Paid,0,False,15,,2.0
+22-8594,Cybersecurity (BSCSEC),2003-06-27,Filipino,Single,Female,Bacoor,With Balance,31903,False,21,,4.0
+22-4755,Business Intelligence & Analytics (BSBA‑BIA),2003-08-08,Filipino,Single,Male,Marikina,With Balance,23656,False,15,,1.0
+22-6016,Cybersecurity (BSCSEC),2000-08-19,Filipino,Single,Female,Taguig,With Balance,22747,False,21,,3.0
+22-1232,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2006-02-11,Filipino,Single,Male,Taguig,With Balance,18460,False,18,,3.0
+22-7808,Business Solutions & Applications (BSBA‑BSAA),2006-04-24,Filipino,Single,Female,Las Piñas,Paid,0,False,15,advising,2.0
+22-1054,Business Solutions & Applications (BSBA‑BSAA),2001-05-06,Filipino,Single,Male,Antipolo,With Balance,25246,False,15,,3.0
+22-2364,Human Resource Management (BSBA‑HRM),2001-06-06,Filipino,Single,Female,Manila,Paid,0,False,15,,4.0
+22-6604,Business Solutions & Applications (BSBA‑BSAA),2003-08-25,Filipino,Single,Female,Valenzuela,Paid,0,False,24,,4.0
+22-8920,Cybersecurity (BSCSEC),2001-12-08,Filipino,Single,Female,San Mateo,Paid,0,False,21,,4.0
+22-8420,Business Solutions & Applications (BSBA‑BSAA),2000-10-12,Filipino,Single,Female,Bacoor,With Balance,10243,False,21,,4.0
+22-2572,Cybersecurity (BSCSEC),2001-10-05,Filipino,Single,Female,Taguig,Paid,0,False,21,,3.0
+22-7973,Human Resource Management (BSBA‑HRM),2000-02-02,Filipino,Single,Male,Marikina,With Balance,19196,False,21,,1.0
+22-9699,Human Resource Management (BSBA‑HRM),2001-08-10,Filipino,Single,Male,Las Piñas,With Balance,38491,False,18,,3.0
+22-2640,Human Resource Management (BSBA‑HRM),2001-02-09,Filipino,Single,Male,Mandaluyong,Paid,0,False,15,,3.5
+22-9868,Business Intelligence & Analytics (BSBA‑BIA),2004-09-22,Filipino,Single,Male,Las Piñas,Paid,0,False,21,,4.0
+22-2126,Business Intelligence & Analytics (BSBA‑BIA),2000-02-16,Filipino,Single,Female,San Mateo,Paid,0,False,18,advising,4.0
+22-2701,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2000-08-07,Filipino,Single,Male,Valenzuela,Paid,0,True,21,,3.0
+22-4072,Information Systems (BS‑IS),2003-01-14,Filipino,Single,Male,Antipolo,Paid,0,False,24,,3.5
+22-5080,Cybersecurity (BSCSEC),2001-12-14,Filipino,Single,Male,Taguig,Paid,0,False,21,,3.0
+22-2965,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2003-03-23,Filipino,Married,Male,Makati,Paid,0,False,18,,4.0
+22-1046,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2003-12-04,Filipino,Single,Male,Muntinlupa,Paid,0,False,15,,3.5
+22-7735,Information Systems (BS‑IS),2004-08-22,Filipino,Single,Male,Pasay,With Balance,38118,False,18,,2.0
+22-8167,Business Intelligence & Analytics (BSBA‑BIA),2004-01-14,Filipino,Single,Male,Navotas,Paid,0,False,15,,4.0
+22-5576,Business Solutions & Applications (BSBA‑BSAA),2006-01-16,Filipino,Single,Female,Parañaque,Paid,0,False,18,,3.5
+22-8812,Information Systems (BS‑IS),2004-03-16,Filipino,Single,Male,San Juan,Paid,0,False,18,restrictions,3.5
+22-5174,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2001-05-28,Filipino,Single,Female,Manila,Paid,0,True,15,,3.5
+22-5002,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2002-11-16,Japanese,Single,Male,Muntinlupa,With Balance,23753,False,21,advising,4.0
+22-6019,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2006-05-23,Filipino,Single,Female,Imus,Paid,0,False,21,monitoring,3.0
+22-5012,Human Resource Management (BSBA‑HRM),2000-06-12,Filipino,Single,Female,Malabon,With Balance,10538,False,15,advising,4.0
+22-1718,Business Solutions & Applications (BSBA‑BSAA),2007-07-18,American,Single,Female,Pasig,Paid,0,False,21,monitoring,4.0
+22-7703,Business Intelligence & Analytics (BSBA‑BIA),2004-11-19,Filipino,Single,Male,Muntinlupa,Paid,0,False,15,,3.0
+22-9796,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2003-01-16,Filipino,Single,Male,Malabon,Paid,0,False,24,,4.0
+22-9252,Cybersecurity (BSCSEC),2003-10-09,Filipino,Single,Female,Navotas,Paid,0,False,15,,3.0
+22-5509,Business Solutions & Applications (BSBA‑BSAA),2002-03-08,Filipino,Single,Male,Caloocan,Paid,0,False,15,,4.0
+22-3203,Business Intelligence & Analytics (BSBA‑BIA),2001-12-24,Filipino,Single,Female,Imus,Paid,0,False,18,,4.0
+22-7136,Business Intelligence & Analytics (BSBA‑BIA),2002-11-27,Filipino,Single,Male,Caloocan,Paid,0,True,24,advising,3.0
+22-3722,Human Resource Management (BSBA‑HRM),2005-08-06,Filipino,Single,Male,Navotas,Paid,0,False,24,,3.5
+22-4508,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2000-04-13,Filipino,Single,Female,Makati,Paid,0,False,18,,4.0
+22-9741,Business Intelligence & Analytics (BSBA‑BIA),2007-07-21,Filipino,Single,Male,Quezon City,Paid,0,False,18,,4.0
+22-1831,Cybersecurity (BSCSEC),2001-04-18,Filipino,Single,Male,Marikina,Paid,0,False,18,monitoring,2.0
+22-4363,Business Solutions & Applications (BSBA‑BSAA),2003-12-21,Filipino,Single,Female,Makati,Paid,0,False,15,,3.5
+22-3697,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2004-06-01,Filipino,Single,Male,Imus,With Balance,33694,False,15,advising,3.0
+22-2328,Business Intelligence & Analytics (BSBA‑BIA),2003-08-26,Filipino,Single,Female,Quezon City,With Balance,29820,False,15,,1.0
+22-6125,Information Systems (BS‑IS),2001-09-21,Filipino,Single,Male,Makati,Paid,0,False,24,,3.0
+22-2255,Business Solutions & Applications (BSBA‑BSAA),2002-05-17,Filipino,Single,Female,Malabon,Paid,0,True,24,,4.0
+22-1800,Business Intelligence & Analytics (BSBA‑BIA),2004-04-13,Filipino,Single,Female,Antipolo,Paid,0,False,24,,4.0
+22-3445,Human Resource Management (BSBA‑HRM),2003-06-12,Filipino,Single,Male,Rodriguez,Paid,0,False,15,,4.0
+22-4406,Business Solutions & Applications (BSBA‑BSAA),2006-10-28,Filipino,Single,Female,Manila,With Balance,38054,False,18,advising,3.5
+22-1769,Business Intelligence & Analytics (BSBA‑BIA),2006-05-27,Filipino,Single,Male,Marikina,Paid,0,False,18,,3.5
+22-5079,Cybersecurity (BSCSEC),2003-07-23,Filipino,Single,Male,Pasay,Paid,0,False,15,monitoring,3.0
+22-5835,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2002-09-19,Filipino,Single,Female,Valenzuela,Paid,0,False,24,,4.0
+22-9656,Information Systems (BS‑IS),2003-02-10,Korean,Single,Female,Quezon City,Paid,0,False,24,,2.0
+22-7122,Human Resource Management (BSBA‑HRM),2000-03-13,Filipino,Single,Female,Muntinlupa,Paid,0,False,18,,2.0
+22-1381,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2001-08-13,Filipino,Single,Female,Antipolo,With Balance,26554,False,15,,3.0
+22-7035,Business Solutions & Applications (BSBA‑BSAA),2002-05-11,Filipino,Single,Male,Imus,Paid,0,False,15,,3.5
+22-4352,Business Solutions & Applications (BSBA‑BSAA),2003-06-07,Filipino,Single,Female,Taguig,Paid,0,False,18,,4.0
+22-8450,Cybersecurity (BSCSEC),2007-12-26,Filipino,Single,Male,San Juan,Paid,0,False,18,,4.0
+22-6292,Business Solutions & Applications (BSBA‑BSAA),2000-07-28,Filipino,Single,Male,Cainta,Paid,0,False,21,,4.0
+22-9203,Information Systems (BS‑IS),2000-01-06,Filipino,Single,Male,Rodriguez,With Balance,13670,False,18,,3.0
+22-1214,Business Solutions & Applications (BSBA‑BSAA),2006-06-16,Filipino,Single,Female,Cainta,With Balance,23615,False,15,,3.0
+22-7418,Human Resource Management (BSBA‑HRM),2005-03-02,Filipino,Single,Male,Antipolo,Paid,0,False,15,,4.0
+22-7504,Cybersecurity (BSCSEC),2007-06-27,Filipino,Single,Female,Caloocan,With Balance,17064,False,18,monitoring,3.5
+22-6532,Information Systems (BS‑IS),2001-02-09,Filipino,Single,Female,Pasig,Paid,0,False,15,,3.0
+22-6529,Business Solutions & Applications (BSBA‑BSAA),2007-07-14,Filipino,Single,Male,Antipolo,Paid,0,False,18,,2.0
+22-1690,Business Solutions & Applications (BSBA‑BSAA),2000-09-07,Filipino,Single,Male,Manila,Paid,0,False,15,,3.0
+22-2637,Business Solutions & Applications (BSBA‑BSAA),2003-05-11,Filipino,Single,Male,Valenzuela,Paid,0,False,24,,3.0
+22-3336,Cybersecurity (BSCSEC),2003-09-27,Filipino,Single,Male,Taguig,With Balance,10162,False,24,,3.5
+22-4889,Information Systems (BS‑IS),2002-07-02,Filipino,Single,Male,Quezon City,Paid,0,False,15,,4.0
+22-7033,Cybersecurity (BSCSEC),2001-05-10,Filipino,Single,Female,Marikina,Paid,0,False,24,,3.0
+22-7158,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2004-09-21,Filipino,Single,Female,Makati,Paid,0,False,21,,3.0
+22-3407,Human Resource Management (BSBA‑HRM),2001-05-01,Filipino,Single,Male,Mandaluyong,Paid,0,False,18,,4.0
+22-8043,Information Systems (BS‑IS),2000-07-20,Filipino,Married,Female,Pasig,Paid,0,False,24,,4.0
+22-8241,Business Solutions & Applications (BSBA‑BSAA),2003-05-18,Filipino,Single,Male,Muntinlupa,Paid,0,False,21,,2.0
+22-9523,Business Solutions & Applications (BSBA‑BSAA),2000-05-27,Filipino,Single,Female,Imus,Paid,0,False,24,,3.0
+22-3412,Information Systems (BS‑IS),2005-09-22,Filipino,Single,Male,San Mateo,Paid,0,False,24,,2.0
+22-4549,Business Intelligence & Analytics (BSBA‑BIA),2007-07-04,Filipino,Single,Male,Caloocan,Paid,0,False,21,,3.0
+22-5127,Business Solutions & Applications (BSBA‑BSAA),2004-07-18,Filipino,Single,Female,Antipolo,With Balance,38004,False,15,,4.0
+22-4665,Business Intelligence & Analytics (BSBA‑BIA),2000-11-28,Filipino,Single,Female,Makati,Paid,0,False,24,,4.0
+22-4167,Cybersecurity (BSCSEC),2005-01-02,Filipino,Single,Male,Cainta,Paid,0,False,15,,3.5
+22-8424,Information Systems (BS‑IS),2002-11-17,Filipino,Single,Female,Bacoor,Paid,0,False,21,,3.5
+22-1275,Information Systems (BS‑IS),2007-08-20,Filipino,Single,Female,Pasig,With Balance,23488,False,18,,3.5
+22-2508,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2007-12-21,Filipino,Single,Male,Mandaluyong,With Balance,12188,False,21,restrictions,3.0
+22-5305,Business Intelligence & Analytics (BSBA‑BIA),2003-04-07,Filipino,Single,Male,Muntinlupa,With Balance,16639,False,21,,3.5
+22-8654,Cybersecurity (BSCSEC),2001-08-01,Filipino,Married,Male,Imus,Paid,0,False,15,,4.0
+22-7912,Business Solutions & Applications (BSBA‑BSAA),2005-03-15,Filipino,Single,Female,Pasay,Paid,0,False,15,,3.0
+22-6031,Human Resource Management (BSBA‑HRM),2000-12-06,Filipino,Single,Male,Pasay,Paid,0,False,15,,3.5
+22-1866,Business Solutions & Applications (BSBA‑BSAA),2007-04-22,Filipino,Single,Female,San Mateo,Paid,0,False,24,,3.5
+22-9411,Business Solutions & Applications (BSBA‑BSAA),2002-02-01,Filipino,Single,Female,Rodriguez,Paid,0,False,18,,2.0
+22-7879,Business Solutions & Applications (BSBA‑BSAA),2005-12-27,Filipino,Single,Female,San Juan,With Balance,17590,False,18,,2.0
+22-3903,Cybersecurity (BSCSEC),2005-07-01,Filipino,Single,Female,Manila,With Balance,27845,False,24,,2.0
+22-2949,Information Systems (BS‑IS),2007-12-02,Filipino,Single,Male,Pasay,With Balance,38183,False,15,,4.0
+22-9857,Business Solutions & Applications (BSBA‑BSAA),2001-11-27,Filipino,Single,Female,Muntinlupa,Paid,0,False,24,,3.0
+22-1243,Human Resource Management (BSBA‑HRM),2007-02-22,Filipino,Single,Male,Antipolo,With Balance,12383,False,18,,3.5
+22-8482,Cybersecurity (BSCSEC),2000-09-19,Filipino,Single,Male,Valenzuela,Paid,0,False,15,,4.0
+22-1619,Human Resource Management (BSBA‑HRM),2000-10-23,Filipino,Single,Female,Cainta,Paid,0,False,21,,3.5
+22-6533,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2001-11-03,Filipino,Single,Female,Quezon City,Paid,0,False,21,,4.0
+22-9912,Information Systems (BS‑IS),2007-07-16,Filipino,Single,Male,Manila,Paid,0,False,24,,1.0
+22-2040,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2007-08-20,Filipino,Single,Male,Cainta,Paid,0,False,24,,4.0
+22-3121,Human Resource Management (BSBA‑HRM),2003-08-24,Filipino,Single,Female,Imus,Paid,0,False,18,,3.0
+22-7040,Business Intelligence & Analytics (BSBA‑BIA),2004-01-22,Filipino,Single,Female,Pasay,Paid,0,False,24,,4.0
+22-3045,Business Solutions & Applications (BSBA‑BSAA),2004-09-06,Filipino,Single,Female,Marikina,With Balance,22883,False,24,,4.0
+22-6783,Cybersecurity (BSCSEC),2004-03-21,Filipino,Single,Female,Pasay,Paid,0,False,18,,2.0
+22-2689,Human Resource Management (BSBA‑HRM),2006-03-09,Filipino,Single,Female,Mandaluyong,Paid,0,False,24,,2.0
+22-7374,Business Solutions & Applications (BSBA‑BSAA),2002-07-19,Filipino,Single,Female,Antipolo,Paid,0,False,15,,1.0
+22-9265,Business Intelligence & Analytics (BSBA‑BIA),2006-06-12,Filipino,Single,Female,Pasay,Paid,0,False,15,,3.0
+22-5707,Human Resource Management (BSBA‑HRM),2003-01-07,Filipino,Single,Male,Taguig,Paid,0,False,18,restrictions,2.0
+22-6465,Cybersecurity (BSCSEC),2003-05-26,Filipino,Single,Male,Pasay,Paid,0,False,24,monitoring,4.0
+22-4548,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2002-06-20,Filipino,Single,Female,Antipolo,Paid,0,True,24,,3.5
+22-1263,Cybersecurity (BSCSEC),2004-03-23,Filipino,Single,Female,Makati,Paid,0,True,21,,3.5
+22-9670,Business Intelligence & Analytics (BSBA‑BIA),2007-09-02,Filipino,Single,Female,Manila,Paid,0,False,21,,2.0
+22-6421,Cybersecurity (BSCSEC),2006-07-02,Chinese,Single,Female,Navotas,Paid,0,False,18,restrictions,3.5
+22-6526,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2004-09-21,Filipino,Single,Female,Muntinlupa,With Balance,19438,False,18,,3.5
+22-2944,Business Intelligence & Analytics (BSBA‑BIA),2006-06-01,Filipino,Single,Male,Quezon City,Paid,0,False,18,,2.0
+22-2191,Business Solutions & Applications (BSBA‑BSAA),2002-11-27,Filipino,Single,Female,Muntinlupa,Paid,0,True,15,,3.5
+22-9548,Business Solutions & Applications (BSBA‑BSAA),2006-09-24,Filipino,Single,Female,Las Piñas,Paid,0,False,24,,3.0
+22-9038,Business Solutions & Applications (BSBA‑BSAA),2007-12-08,Filipino,Single,Female,Las Piñas,Paid,0,False,15,restrictions,1.0
+22-3747,Human Resource Management (BSBA‑HRM),2004-04-03,Filipino,Single,Male,San Mateo,Paid,0,False,18,,4.0
+22-4279,Cybersecurity (BSCSEC),2002-11-01,Filipino,Single,Male,Pasay,With Balance,27025,False,18,,3.5
+22-4341,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2007-06-01,Filipino,Single,Female,Antipolo,Paid,0,False,18,,2.0
+22-8865,Information Systems (BS‑IS),2005-05-24,Japanese,Single,Female,Malabon,Paid,0,False,15,,3.0
+22-9371,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2007-07-22,Filipino,Single,Female,Quezon City,Paid,0,False,24,,3.0
+22-3876,Business Intelligence & Analytics (BSBA‑BIA),2007-11-07,Filipino,Single,Male,Rodriguez,With Balance,37455,False,15,,4.0
+22-4507,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2006-03-04,Filipino,Single,Male,Bacoor,Paid,0,False,18,,4.0
+22-6958,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2003-10-28,Filipino,Single,Female,Marikina,Paid,0,False,24,,2.0
+22-4585,Business Solutions & Applications (BSBA‑BSAA),2006-05-08,Filipino,Single,Female,Marikina,With Balance,26322,False,15,,3.5
+22-8189,Business Intelligence & Analytics (BSBA‑BIA),2002-10-06,Filipino,Single,Female,San Juan,Paid,0,False,24,,4.0
+22-6355,Business Solutions & Applications (BSBA‑BSAA),2003-03-05,Filipino,Single,Male,Pasig,Paid,0,False,15,,4.0
+22-1728,Human Resource Management (BSBA‑HRM),2007-10-26,Filipino,Single,Female,Parañaque,Paid,0,False,21,,3.5
+22-4879,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2006-01-26,Filipino,Single,Male,Caloocan,Paid,0,True,21,,3.5
+22-2343,Cybersecurity (BSCSEC),2005-02-15,Filipino,Single,Male,Caloocan,Paid,0,False,15,advising,3.0
+22-3743,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2005-11-01,Filipino,Single,Female,Bacoor,Paid,0,False,15,,4.0
+22-1080,Cybersecurity (BSCSEC),2006-08-03,Filipino,Single,Male,Cainta,Paid,0,False,15,,3.0
+22-2893,Business Solutions & Applications (BSBA‑BSAA),2002-02-28,Filipino,Single,Female,Valenzuela,Paid,0,False,15,restrictions,3.0
+22-2899,Business Intelligence & Analytics (BSBA‑BIA),2006-07-04,Filipino,Single,Male,Cainta,Paid,0,False,21,,2.0
+22-8170,Business Solutions & Applications (BSBA‑BSAA),2003-10-24,Filipino,Single,Male,Valenzuela,Paid,0,False,15,,3.5
+22-5939,Cybersecurity (BSCSEC),2001-03-25,Filipino,Single,Male,Las Piñas,Paid,0,True,24,,4.0
+22-6523,Business Intelligence & Analytics (BSBA‑BIA),2005-03-05,Filipino,Single,Male,Rodriguez,With Balance,21467,False,24,,4.0
+22-1020,Business Solutions & Applications (BSBA‑BSAA),2005-03-25,Filipino,Single,Male,Taguig,Paid,0,False,18,,3.5
+22-6882,Cybersecurity (BSCSEC),2005-09-12,Filipino,Single,Male,Caloocan,Paid,0,False,15,,3.0
+22-1420,Business Solutions & Applications (BSBA‑BSAA),2007-01-14,Filipino,Single,Female,San Juan,Paid,0,False,18,,4.0
+22-2398,Information Systems (BS‑IS),2006-10-01,Filipino,Single,Female,Antipolo,With Balance,21219,False,21,,2.0
+22-1124,Business Solutions & Applications (BSBA‑BSAA),2004-01-08,Filipino,Single,Female,Pasay,Paid,0,False,24,,2.0
+22-6050,Cybersecurity (BSCSEC),2001-06-15,Filipino,Single,Female,Parañaque,With Balance,18064,False,21,,4.0
+22-5114,Information Systems (BS‑IS),2006-01-04,Filipino,Single,Male,Antipolo,Paid,0,False,24,,4.0
+22-7531,Human Resource Management (BSBA‑HRM),2001-08-06,Filipino,Single,Male,Antipolo,Paid,0,True,21,,4.0
+22-1499,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2001-06-23,Filipino,Single,Male,Valenzuela,Paid,0,False,24,,3.5
+22-1783,Human Resource Management (BSBA‑HRM),2005-09-09,Filipino,Single,Female,Mandaluyong,Paid,0,False,15,,4.0
+22-9711,Cybersecurity (BSCSEC),2005-08-14,Filipino,Single,Female,Manila,Paid,0,False,21,,3.0
+22-4282,Cybersecurity (BSCSEC),2006-03-27,Filipino,Single,Female,Valenzuela,Paid,0,False,18,restrictions,4.0
+22-4941,Business Solutions & Applications (BSBA‑BSAA),2007-01-02,Filipino,Single,Female,Valenzuela,With Balance,30540,False,15,,3.0
+22-1828,Information Systems (BS‑IS),2007-11-15,Filipino,Single,Male,Bacoor,Paid,0,False,15,,3.0
+22-5416,Cybersecurity (BSCSEC),2000-06-08,Filipino,Single,Female,Mandaluyong,Paid,0,True,15,,3.5
+22-9141,Information Systems (BS‑IS),2007-11-08,Filipino,Single,Female,Imus,Paid,0,False,21,monitoring,1.0
+22-3432,Business Solutions & Applications (BSBA‑BSAA),2007-05-02,Filipino,Single,Male,San Juan,With Balance,24316,False,18,,3.0
+22-9444,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2004-10-19,Filipino,Married,Female,Manila,Paid,0,True,21,,3.5
+22-3286,Business Intelligence & Analytics (BSBA‑BIA),2003-08-02,Filipino,Single,Male,Taguig,Paid,0,True,15,,3.0
+22-1449,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2004-02-28,Filipino,Single,Male,San Juan,With Balance,30159,False,24,,2.0
+22-2368,Information Systems (BS‑IS),2000-12-27,Filipino,Single,Female,Imus,With Balance,37898,False,15,,2.0
+22-5260,Human Resource Management (BSBA‑HRM),2002-03-25,Filipino,Single,Female,Antipolo,With Balance,28713,False,24,,3.5
+22-1188,Cybersecurity (BSCSEC),2002-01-26,Filipino,Single,Female,Malabon,Paid,0,False,18,,3.5
+22-2394,Human Resource Management (BSBA‑HRM),2006-02-25,Filipino,Single,Male,Antipolo,Paid,0,False,21,,3.0
+22-7938,Cybersecurity (BSCSEC),2002-08-24,Filipino,Single,Female,Imus,Paid,0,False,21,,4.0
+21-2448,Cybersecurity (BSCSEC),2006-02-12,Filipino,Single,Male,Mandaluyong,Paid,0,False,18,,3.5
+21-2753,Information Systems (BS‑IS),2006-03-10,Filipino,Single,Female,Bacoor,Paid,0,False,24,,3.0
+21-8033,Business Intelligence & Analytics (BSBA‑BIA),2004-08-17,Filipino,Single,Male,Pasig,Paid,0,False,18,,2.0
+21-4983,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2006-05-18,Filipino,Single,Male,Marikina,Paid,0,False,18,,2.0
+21-3252,Human Resource Management (BSBA‑HRM),2006-08-05,American,Single,Female,Cainta,Paid,0,False,15,advising,4.0
+21-2850,Cybersecurity (BSCSEC),2003-06-22,Filipino,Single,Male,Caloocan,Paid,0,False,18,,3.5
+21-1006,Human Resource Management (BSBA‑HRM),2002-04-02,Filipino,Single,Male,Pasay,With Balance,10718,False,18,,1.0
+21-5949,Information Systems (BS‑IS),2002-05-04,Filipino,Single,Male,Caloocan,Paid,0,False,24,,4.0
+21-8933,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2001-09-05,Filipino,Single,Male,San Mateo,With Balance,10093,False,24,,3.0
+21-2587,Human Resource Management (BSBA‑HRM),2001-08-09,Filipino,Single,Male,San Juan,Paid,0,False,24,,2.0
+21-9944,Information Systems (BS‑IS),2003-12-19,Filipino,Single,Female,Las Piñas,Paid,0,False,21,,2.0
+21-6362,Human Resource Management (BSBA‑HRM),2004-06-26,Filipino,Single,Male,Cainta,Paid,0,False,24,,4.0
+21-7250,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2000-06-04,Filipino,Single,Male,San Juan,Paid,0,False,24,,3.5
+21-7730,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2002-02-17,Filipino,Single,Male,Pasay,Paid,0,False,21,,3.5
+21-5099,Business Solutions & Applications (BSBA‑BSAA),2000-05-13,American,Single,Female,San Mateo,Paid,0,False,24,monitoring,3.5
+21-1235,Human Resource Management (BSBA‑HRM),2005-07-28,Filipino,Single,Female,San Mateo,Paid,0,False,21,,1.0
+21-4150,Cybersecurity (BSCSEC),2000-07-05,Filipino,Single,Female,Pasay,With Balance,37993,False,18,,3.5
+21-5738,Business Intelligence & Analytics (BSBA‑BIA),2001-07-21,Filipino,Single,Male,Quezon City,Paid,0,True,24,,4.0
+21-3865,Business Solutions & Applications (BSBA‑BSAA),2004-03-25,Filipino,Single,Female,Imus,Paid,0,False,21,,3.5
+21-2698,Business Intelligence & Analytics (BSBA‑BIA),2002-05-23,Vietnamese,Single,Female,San Mateo,Paid,0,False,15,restrictions,4.0
+21-8775,Cybersecurity (BSCSEC),2006-08-23,Filipino,Single,Male,Makati,Paid,0,False,21,,3.0
+21-1223,Human Resource Management (BSBA‑HRM),2007-03-23,Filipino,Single,Male,Bacoor,Paid,0,False,15,,4.0
+21-9663,Human Resource Management (BSBA‑HRM),2003-12-25,Filipino,Single,Female,Parañaque,With Balance,38390,False,15,,3.5
+21-3765,Human Resource Management (BSBA‑HRM),2004-09-06,Filipino,Single,Male,Antipolo,Paid,0,False,21,restrictions,2.0
+21-5169,Human Resource Management (BSBA‑HRM),2005-05-21,Filipino,Single,Male,Makati,With Balance,15051,False,24,,3.0
+21-9048,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2001-08-15,Filipino,Single,Male,San Juan,Paid,0,False,18,,4.0
+21-9829,Information Systems (BS‑IS),2002-02-16,Filipino,Single,Male,Makati,Paid,0,False,18,,3.5
+21-4184,Business Intelligence & Analytics (BSBA‑BIA),2006-10-26,Japanese,Single,Male,Marikina,Paid,0,False,18,,4.0
+21-2701,Cybersecurity (BSCSEC),2001-12-28,Filipino,Single,Female,Antipolo,With Balance,21316,False,18,,3.5
+21-6889,Human Resource Management (BSBA‑HRM),2004-07-02,Filipino,Single,Female,Makati,Paid,0,False,24,,3.0
+21-1255,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2005-04-21,Filipino,Single,Female,Antipolo,Paid,0,False,24,,3.0
+21-7972,Cybersecurity (BSCSEC),2002-12-20,Filipino,Married,Female,Malabon,Paid,0,False,24,monitoring,3.0
+21-5158,Information Systems (BS‑IS),2003-01-26,Filipino,Single,Female,Marikina,Paid,0,False,18,,3.0
+21-8365,Business Solutions & Applications (BSBA‑BSAA),2003-04-19,Filipino,Single,Male,Bacoor,Paid,0,False,24,,4.0
+21-4442,Business Solutions & Applications (BSBA‑BSAA),2000-12-19,Filipino,Single,Male,Taguig,Paid,0,True,15,advising,4.0
+21-1034,Business Intelligence & Analytics (BSBA‑BIA),2001-12-17,Filipino,Single,Male,Quezon City,Paid,0,False,24,,4.0
+21-9974,Business Intelligence & Analytics (BSBA‑BIA),2004-04-12,Filipino,Single,Male,San Juan,Paid,0,False,21,,3.0
+21-2393,Cybersecurity (BSCSEC),2000-08-09,Filipino,Single,Male,Caloocan,Paid,0,False,21,,3.0
+21-1571,Business Intelligence & Analytics (BSBA‑BIA),2003-12-25,American,Single,Female,Mandaluyong,Paid,0,True,21,,1.0
+21-7212,Information Systems (BS‑IS),2001-06-01,Filipino,Single,Female,Imus,Paid,0,False,15,restrictions,3.5
+21-7077,Human Resource Management (BSBA‑HRM),2001-12-03,Filipino,Single,Male,Las Piñas,Paid,0,True,24,,4.0
+21-5405,Cybersecurity (BSCSEC),2007-01-17,Filipino,Single,Male,Valenzuela,Paid,0,False,18,,3.0
+21-7639,Business Solutions & Applications (BSBA‑BSAA),2006-10-15,Filipino,Single,Female,San Mateo,With Balance,28538,False,15,,1.0
+21-8951,Cybersecurity (BSCSEC),2001-06-01,Filipino,Single,Male,Parañaque,Paid,0,False,24,,4.0
+21-4878,Business Solutions & Applications (BSBA‑BSAA),2000-02-05,Filipino,Single,Female,Navotas,Paid,0,False,18,,3.5
+21-2288,Cybersecurity (BSCSEC),2000-10-12,Filipino,Single,Female,Parañaque,Paid,0,False,15,,3.5
+21-2478,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2002-08-10,Filipino,Single,Male,Taguig,With Balance,31134,False,18,,3.0
+21-7599,Business Solutions & Applications (BSBA‑BSAA),2006-05-06,Filipino,Single,Female,Muntinlupa,Paid,0,False,15,,2.0
+21-5330,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2005-05-05,Filipino,Single,Female,Parañaque,With Balance,20451,False,24,,4.0
+21-3318,Business Solutions & Applications (BSBA‑BSAA),2005-08-27,Filipino,Single,Male,Makati,Paid,0,False,21,,1.0
+21-8526,Business Solutions & Applications (BSBA‑BSAA),2003-03-09,Filipino,Single,Male,Antipolo,Paid,0,False,21,,2.0
+21-5587,Business Intelligence & Analytics (BSBA‑BIA),2000-02-16,Filipino,Single,Male,Mandaluyong,With Balance,17876,False,15,monitoring,4.0
+21-9884,Human Resource Management (BSBA‑HRM),2000-08-03,Filipino,Single,Male,Makati,Paid,0,False,15,,2.0
+21-2789,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2001-06-06,Filipino,Single,Male,Parañaque,With Balance,36015,False,24,restrictions,4.0
+21-1718,Business Intelligence & Analytics (BSBA‑BIA),2007-02-26,Filipino,Single,Male,Manila,Paid,0,False,15,,3.0
+21-6116,Cybersecurity (BSCSEC),2005-12-10,Filipino,Single,Female,Valenzuela,Paid,0,False,24,,3.0
+21-5571,Information Systems (BS‑IS),2001-07-27,Filipino,Single,Male,Malabon,Paid,0,False,15,,3.0
+21-2158,Business Intelligence & Analytics (BSBA‑BIA),2004-06-02,Filipino,Single,Female,San Juan,Paid,0,False,21,,2.0
+21-6897,Information Systems (BS‑IS),2004-09-25,Filipino,Single,Male,Valenzuela,Paid,0,False,21,,3.5
+21-8336,Business Solutions & Applications (BSBA‑BSAA),2003-12-09,Filipino,Single,Male,San Mateo,Paid,0,False,18,,1.0
+21-5881,Information Systems (BS‑IS),2002-09-02,Filipino,Single,Female,Marikina,Paid,0,False,24,,3.5
+21-6967,Information Systems (BS‑IS),2002-04-19,Filipino,Single,Male,San Mateo,With Balance,20634,False,15,restrictions,3.0
+21-1451,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2001-04-04,Chinese,Married,Female,Antipolo,Paid,0,False,15,monitoring,3.0
+21-8293,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2006-01-22,Filipino,Single,Male,Pasay,Paid,0,False,18,,2.0
+21-5391,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2001-11-06,American,Single,Male,Mandaluyong,Paid,0,False,21,,4.0
+21-3587,Information Systems (BS‑IS),2000-02-11,Filipino,Single,Male,Parañaque,Paid,0,False,21,,2.0
+21-6567,Business Intelligence & Analytics (BSBA‑BIA),2007-05-02,Chinese,Single,Female,Caloocan,Paid,0,False,15,,3.0
+21-6999,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2000-04-22,Filipino,Single,Male,Pasay,Paid,0,False,18,,3.0
+21-1199,Business Solutions & Applications (BSBA‑BSAA),2001-01-09,Filipino,Single,Male,Valenzuela,Paid,0,True,21,restrictions,3.5
+21-2536,Business Solutions & Applications (BSBA‑BSAA),2005-10-20,Filipino,Single,Female,Parañaque,Paid,0,False,21,,3.5
+21-1748,Human Resource Management (BSBA‑HRM),2006-02-02,Filipino,Single,Male,Bacoor,Paid,0,True,24,,2.0
+21-9970,Business Intelligence & Analytics (BSBA‑BIA),2001-09-13,Filipino,Single,Male,San Juan,Paid,0,False,18,,1.0
+21-4175,Cybersecurity (BSCSEC),2004-05-19,Filipino,Married,Male,Manila,Paid,0,True,24,,3.0
+21-3575,Human Resource Management (BSBA‑HRM),2005-01-07,Filipino,Single,Male,Makati,With Balance,20259,False,21,monitoring,4.0
+21-2732,Information Systems (BS‑IS),2004-03-19,Filipino,Single,Male,San Juan,Paid,0,False,15,restrictions,3.0
+21-1652,Interactive Entertainment & Multimedia Computing (BS‑IEMC),2006-11-02,Filipino,Single,Female,Antipolo,Paid,0,False,15,monitoring,3.5
+21-3229,Cybersecurity (BSCSEC),2000-05-22,Filipino,Married,Female,Muntinlupa,With Balance,28234,False,24,,3.0
+21-4048,Business Intelligence & Analytics (BSBA‑BIA),2002-10-24,Filipino,Single,Male,Pasay,Paid,0,True,18,,2.0
+21-3935,Business Intelligence & Analytics (BSBA‑BIA),2002-08-12,Filipino,Single,Female,Navotas,With Balance,32770,False,18,monitoring,4.0
+21-6640,Business Solutions & Applications (BSBA‑BSAA),2003-12-25,Filipino,Single,Female,Mandaluyong,Paid,0,True,18,restrictions,3.0
